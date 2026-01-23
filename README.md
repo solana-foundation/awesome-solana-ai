@@ -31,6 +31,7 @@ AI agents and autonomous systems built for Solana.
 - [Eliza Framework](https://github.com/elizaOS/eliza) - Lightweight TypeScript AI agent framework with Solana integrations, Twitter/X bots, and character-based configuration for agent behaviors.
 - [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
 - [AgenC](https://github.com/tetsuo-ai/AgenC) - Privacy-focused multi-agent coordination framework with ZK proof integrations and confidential compute for Solana.
+
 ## Developer Tools
 
 AI-enhanced development tools for the Solana ecosystem.
@@ -42,7 +43,8 @@ AI-enhanced development tools for the Solana ecosystem.
 
 Educational resources combining AI and Solana development.
 
-*Coming soon - contributions welcome!*
+- **[Private AI Commerce Demo: Shadow Agent Protocol on Solana](https://ashborn-sol.vercel.app/demo/shadow-agent)** — Interactive demo of fully autonomous AI agents conducting private on-chain commerce. Showcases integration of Ashborn (with Light Protocol and ZK Groth16) for stealth/privacy-protected transactions, PrivacyCash for enhanced anonymity, and x402 protocol flows for micropayments. Includes real TypeScript SDK code examples for stealth transfers, shielding funds, and agent-to-agent payments. Ideal for developers exploring agentic AI systems with maximum privacy on Solana.
+  - Tools featured: [Ashborn](https://github.com/AlleyBo55/ashborn) | [Micropay x402 Paywall](https://github.com/AlleyBo55/micropay-solana-x402-paywall)
 
 ## Contributing
 
