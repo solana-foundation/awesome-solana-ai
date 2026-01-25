@@ -20,6 +20,8 @@ AI coding skills that enhance developer productivity on Solana.
 
 - [solana-anchor-claude-skill](https://github.com/mikemaccana/solana-anchor-claude-skill) - end to end Solana development for Anchor and Solana Kit, focusing on modern, minimal, readable code. Testing is with native JS test runners or LiteSVM.
 
+- [solana-skills-plugin](https://github.com/tenequm/claude-plugins/tree/main/solana) - Solana skills for Claude Code: program development with Anchor/native Rust (testing and deployment included), security auditing with vulnerability detection and audit report generation, and ZK compression for rent-free tokens/PDAs via Light Protocol.
+
 - [magicblock-dev-skill](https://github.com/magicblock-labs/magicblock-dev-skill) - End-to-end MagicBlock development skill for Claude Code. [MagicBlock](https://magicblock.xyz) is a Solana network extension designed to help programs with latency/privacy needs, along with other native tools like VRFs, Cranks, Session Keys and more.
 
 ## AI Agents
