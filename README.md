@@ -18,8 +18,15 @@ AI coding skills that enhance developer productivity on Solana.
 
 - [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) - End-to-end Solana development skill for Claude Code. Covers wallet connections, Anchor/Pinocchio programs, client generation, testing with LiteSVM/Mollusk, and security best practices.
 
+- [solana-anchor-claude-skill](https://github.com/mikemaccana/solana-anchor-claude-skill) - end to end Solana development for Anchor and Solana Kit, focusing on modern, minimal, readable code. Testing is with native JS test runners or LiteSVM.
+
+- [solana-skills-plugin](https://github.com/tenequm/claude-plugins/tree/main/solana) - Solana skills for Claude Code: program development with Anchor/native Rust (testing and deployment included), security auditing with vulnerability detection and audit report generation, and ZK compression for rent-free tokens/PDAs via Light Protocol.
+
 - [magicblock-dev-skill](https://github.com/magicblock-labs/magicblock-dev-skill) - End-to-end MagicBlock development skill for Claude Code. [MagicBlock](https://magicblock.xyz) is a Solana network extension designed to help programs with latency/privacy needs, along with other native tools like VRFs, Cranks, Session Keys and more.
 
+- [solana-game-skill](https://github.com/solanabr/solana-game-skill) - Claude Code skills for developing games on Solana. Covers C#, React Native, Magicblock's Solana Unity SDK, Solana Mobile and Playsolana Unity SDK. Extends [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill).
+
+  
 ## AI Agents
 
 AI agents and autonomous systems built for Solana.
@@ -33,10 +40,10 @@ AI agents and autonomous systems built for Solana.
 
 AI-enhanced development tools for the Solana ecosystem.
 
-- [Solana Developer MCP](https://mcp.solana.com/) - Maintained by Solana. Solana MCP (Machine Conversation Protocol) is a specialized AI assistant that integrates directly into AI-supported IDEs like Cursor and Windsurf (works with Claude CLI as well). Automatically queries the MCP server to provide accurate, up-to-date information from Solana and Anchor Framework documentation.
+- [Solana Developer MCP](https://mcp.solana.com/) - Maintained by Solana. Solana MCP (Model Context Protocol) is a specialized AI assistant that integrates directly into AI-supported IDEs like Cursor and Windsurf (works with Claude CLI as well). Automatically queries the MCP server to provide accurate, up-to-date information from Solana and Anchor Framework documentation.
 - [SLO (Solana LLM Oracle)](https://github.com/GauravBurande/solana-llm-oracle) - Enables LLM inference directly in Solana programs for on-chain AI capabilities in games and protocols requiring autonomous functions.
-- [LumoKit](https://github.com/Lumo-Labs-AI/lumokit) - Lightweight Python AI toolkit for Solana with on-chain actions, token swaps via Jupiter, and research capabilities for ecosystem developers.
- 
+- [LumoKit](https://github.com/Lumo-Labs-AI/lumokit) - Lightweight Python AI toolkit for Solana with on-chain actions, token swaps via Jupiter, and research capabilities for ecosystem developers. 
+- [SATI (Solana Agent Trust Infrastructure)](https://github.com/cascade-protocol/sati) - ERC-8004 compliant agent identity and reputation with proof-of-participation: agents sign before knowing feedback outcomes.
 
 ## Learning Resources
 
