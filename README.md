@@ -42,6 +42,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [LumoKit](https://github.com/Lumo-Labs-AI/lumokit) - Lightweight Python AI toolkit for Solana with on-chain actions, token swaps via Jupiter, and research capabilities for ecosystem developers.
 - [AImpact](https://aimpact.dev) - online AI-powered IDE for Web3 apps generation, including generating and deploying (currently to devnet, mainnet coming soon) Solana smart contracts.
 - [SATI (Solana Agent Trust Infrastructure)](https://github.com/cascade-protocol/sati) - ERC-8004 compliant agent identity and reputation with proof-of-participation: agents sign before knowing feedback outcomes.
+- [Dexter Lab](https://lab.dexter.cash) - x402 payment infrastructure for Solana. Vibe code an API, deploy it, and AI agents pay USDC per call. 600+ merchants, 38M+ settlements, supports 6 chains. SDK: [@dexterai/x402](https://www.npmjs.com/package/@dexterai/x402).
 
 ## Learning Resources
 
