@@ -74,6 +74,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [solana-kit-migration-skill](https://github.com/sendaifun/skills/tree/main/skills/solana-kit-migration) - AI coding skill for migrating from @solana/web3.js v1.x to @solana/kit with API mappings and edge case handling.
 - [pinocchio-skill](https://github.com/sendaifun/skills/tree/main/skills/pinocchio-development) - AI coding skill for Pinocchio, a zero-dependency zero-copy framework for high-performance Solana programs with 88-95% compute unit reduction.
 - [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
+- [ZeroLeaks](https://zeroleaks.ai) - AI red-teaming platform that tests system prompt security using multi-agent attack strategies, helping developers identify and fix prompt injection vulnerabilities before deployment.
 - [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
 
