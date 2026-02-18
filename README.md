@@ -26,6 +26,7 @@ AI coding skills that enhance developer productivity on Solana.
 
 - [solana-game-skill](https://github.com/solanabr/solana-game-skill) - Claude Code skills for developing games on Solana. Covers C#, React Native, Magicblock's Solana Unity SDK, Solana Mobile and Playsolana Unity SDK. Extends [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill).
 
+- [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
   
 ## AI Agents
 
