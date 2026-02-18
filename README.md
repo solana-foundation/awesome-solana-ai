@@ -60,6 +60,7 @@ AI agents and autonomous systems built for Solana.
 - [Eliza Framework](https://github.com/elizaOS/eliza) - Lightweight TypeScript AI agent framework with Solana integrations, Twitter/X bots, and character-based configuration for agent behaviors.
 - [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
 - [AgenC](https://github.com/tetsuo-ai/AgenC) - Privacy-focused multi-agent coordination framework with ZK proof integrations and confidential compute for Solana.
+- [Droyd](https://droyd.ai) - Agent trading and skill network with one-click trading agent creation, API skills for crypto content search, trading, agent-to-agent x402 payments, and agent following.
 
 ## Developer Tools
 
