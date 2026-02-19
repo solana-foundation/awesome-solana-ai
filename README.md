@@ -41,6 +41,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [sanctum-skill](https://github.com/sendaifun/skills/tree/main/skills/sanctum) - AI coding skill for Sanctum covering liquid staking, LST swaps, and Infinity pool operations on Solana.
 - [dflow-skill](https://github.com/sendaifun/skills/tree/main/skills/dflow) - AI coding skill for DFlow trading protocol covering spot trading, prediction markets, Swap API, and WebSocket streaming on Solana.
 - [ranger-finance-skill](https://github.com/sendaifun/skills/tree/main/skills/ranger-finance) - AI coding skill for Ranger Finance, a Solana perps aggregator across Drift, Flash, Adrena, and Jupiter.
+- [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) - AI coding skill for Octav API covering Solana wallet portfolio tracking, transaction history, DeFi protocol positions, and token analytics.
 
 ### Infrastructure
 
