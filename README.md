@@ -26,6 +26,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [solana-skills-plugin](https://github.com/tenequm/claude-plugins/tree/main/solana) - Solana skills for Claude Code: program development with Anchor/native Rust (testing and deployment included), security auditing with vulnerability detection and audit report generation, and ZK compression for rent-free tokens/PDAs via Light Protocol.
 - [magicblock-dev-skill](https://github.com/magicblock-labs/magicblock-dev-skill) - End-to-end MagicBlock development skill for Claude Code. [MagicBlock](https://magicblock.xyz) is a Solana network extension designed to help programs with latency/privacy needs, along with other native tools like VRFs, Cranks, Session Keys and more.
 - [solana-game-skill](https://github.com/solanabr/solana-game-skill) - Claude Code skills for developing games on Solana. Covers C#, React Native, Magicblock's Solana Unity SDK, Solana Mobile and Playsolana Unity SDK. Extends [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill).
+- [metaplex-skill](https://github.com/metaplex-foundation/skill) - Official Metaplex development skill covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, Genesis token launches, the mplx CLI, and Umi/Kit SDKs.
 
 ### DeFi
 
@@ -50,7 +51,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
-- [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
+- [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - Community AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
 
 ## AI Agents
 
