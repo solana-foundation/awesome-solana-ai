@@ -61,7 +61,7 @@ AI agents and autonomous systems built for Solana.
 - [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
 - [AgenC](https://github.com/tetsuo-ai/AgenC) - Privacy-focused multi-agent coordination framework with ZK proof integrations and confidential compute for Solana.
 - [Breeze Agent Kit](https://github.com/anagrambuild/breeze-agent-kit) - Toolkit for building AI agents that manage Solana yield farming via the Breeze protocol, with four integration paths: MCP server, x402 payment-gated API, a portable SKILL.md for agent frameworks, and one-command install through ClawHub.
-- [SAID Protocol](https://saidprotocol.com) - On-chain identity, reputation, and verification infrastructure for AI agents on Solana. Agents register a cryptographically verifiable identity, build reputation scores, and get discovered in the public agent directory. Free to register. Use `create-said-agent` to scaffold an Eliza nanobot or OpenClaw agent with a built-in SAID identity out of the box.
+- [SAID Protocol](https://saidprotocol.com) - On-chain identity, reputation, and verification infrastructure for AI agents on Solana. Agents register a cryptographically verifiable identity, build reputation scores, and get discovered in the public agent directory. Free to register. Use `create-said-agent` to scaffold an ElizaOS nanobot or OpenClaw agent with a SAID identity built in from the start.
 
 ## Developer Tools
 
