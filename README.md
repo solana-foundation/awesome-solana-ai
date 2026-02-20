@@ -53,6 +53,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
 - [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - Community AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
 - [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
+- [token-name-service](https://tns.id) - TNS Protocol is a decentralized registry for unique token symbols on Solana. Like DNS for domains or SNS for handles, TNS provides authoritative resolution for token tickers. Verify any token with a single on-chain lookup. We add an important layer of security so that both humans and AI Agents know for sure they are buying the right SYMBOL.
   
 ## AI Agents
 
