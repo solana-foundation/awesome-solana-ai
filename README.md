@@ -34,6 +34,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [clawpump-arbitrage-skill](https://clawpump.tech/arbitrage.md) - AI agent skill for multi-DEX arbitrage on Solana covering 11 DEX quote aggregation, roundtrip and bridge strategies, and ready-to-sign transaction bundle generation.
 - [jupiter-skill](https://github.com/jup-ag/agent-skills/tree/main/skills/integrating-jupiter) - AI coding skill for Jupiter covering Ultra swaps, limit orders, DCA, perpetuals, lending, and token APIs on Solana.
 - [drift-skill](https://github.com/sendaifun/skills/tree/main/skills/drift) - AI coding skill for Drift Protocol SDK covering perpetual futures, spot trading, and DeFi applications on Solana.
+- [glam-skill](https://github.com/glamsystems/glam-skill) - AI coding skill for GLAM Protocol covering vault creation, tokenized asset management, DeFi integrations, access control, and investment policies on Solana.
 - [kamino-skill](https://github.com/sendaifun/skills/tree/main/skills/kamino) - AI coding skill for Kamino Finance covering lending, borrowing, liquidity management, leverage trading, and oracle aggregation on Solana.
 - [lulo-skill](https://github.com/sendaifun/skills/tree/main/skills/lulo) - AI coding skill for Lulo, Solana's lending aggregator that routes deposits to the highest-yielding protocols across Kamino, Drift, MarginFi, and Jupiter.
 - [meteora-skill](https://github.com/sendaifun/skills/tree/main/skills/meteora) - AI coding skill for Meteora DeFi SDK covering liquidity pools, AMMs, bonding curves, vaults, and token launches on Solana.
