@@ -56,7 +56,8 @@ AI coding skills that enhance developer productivity on Solana.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
 - [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - Community AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
 - [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
-  
+- [payai-x402-skill](https://github.com/PayAINetwork/payai-x402-skill) - AI coding skill for the PayAI x402 facilitator covering payment middleware for Express, Hono, Next.js, FastAPI, Flask, and Gin, plus client integration with Fetch, Axios, httpx, and Go on Solana.
+
 ## AI Agents
 
 AI agents and autonomous systems built for Solana.
@@ -86,6 +87,8 @@ AI-enhanced development tools for the Solana ecosystem.
 - [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
 - [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
+- [x402-solana](https://github.com/PayAINetwork/x402-solana) - Framework-agnostic TypeScript SDK implementing x402 payment protocol v2 for Solana with client-side payment handling and server-side verification for any wallet provider.
+- [x402-solana-react](https://github.com/PayAINetwork/x402-solana-react) - Drop-in React paywall components for Solana x402 payments with multi-wallet support, built-in themes, and automatic USDC payment processing.
 
 ## Learning Resources
 
