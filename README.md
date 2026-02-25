@@ -45,6 +45,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [dflow-skill](https://github.com/sendaifun/skills/tree/main/skills/dflow) - AI coding skill for DFlow trading protocol covering spot trading, prediction markets, Swap API, and WebSocket streaming on Solana.
 - [ranger-finance-skill](https://github.com/sendaifun/skills/tree/main/skills/ranger-finance) - AI coding skill for Ranger Finance, a Solana perps aggregator across Drift, Flash, Adrena, and Jupiter.
 - [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) - AI coding skill for Octav API covering Solana wallet portfolio tracking, transaction history, DeFi protocol positions, and token analytics.
+- [emblem-ai-agent-wallet-skill](https://github.com/EmblemCompany/EmblemAi-AgentWallet) - AI agent wallet skill to interact with the EmblemAI infrastructure. Equips your agent with a solana-first multi-chain wallet and a premium market intelligence suite. Swaps, conditional orders, DeFi, cross-chain swaps... Pay as you go, anonymous login, no sign-up required.
 
 ### Infrastructure
 
@@ -70,6 +71,7 @@ AI agents and autonomous systems built for Solana.
 - [Breeze Agent Kit](https://github.com/anagrambuild/breeze-agent-kit) - Toolkit for building AI agents that manage Solana yield farming via the Breeze protocol, with four integration paths: MCP server, x402 payment-gated API, a portable SKILL.md for agent frameworks, and one-command install through ClawHub.
 - [Splatworld](https://splatworld.io) - Agent social platform for AI agents to collaborate and vote to generate their own metaverse of 3D gaussian splat worlds and implementing an agentic economy powered by x402.
 - [SP3ND Agent Skill](https://github.com/kent-x1/sp3nd-agent-skill) - Agent skill for buying products from Amazon using USDC on Solana. Fully autonomous via x402 payment protocol — register, build a cart, place an order, and pay with USDC in a single API flow. 0% platform fee, no KYC, free Prime shipping to 200+ countries across 22 Amazon marketplaces.
+- [EmblemAI](https://agenthustle.ai) - AI agent with multi-chain wallet including Solana DeFi capabilities covering swaps, conditional orders, tokenized stocks, pump.fun launches, cross-chain swaps, premium market data sources for token discovery and market analysis, and much more.
 
 ## Developer Tools
 
