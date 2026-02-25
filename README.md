@@ -57,6 +57,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
 - [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - Community AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
 - [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
+- [x402 Singularity Layer](https://x402layer.cc) - Internet's unified commerce layer for the homo-agentic economy. Deploy x402-enabled endpoints in under a minute to sell APIs and digital goods. AI agents can autonomously discover, pay for, and consume services using USDC on Solana or Base. Features a marketplace for listing services and pre-built UI components for adding crypto payments to any website.
 
 ## AI Agents
 
