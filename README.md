@@ -87,6 +87,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
 - [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
+- [Loyal](https://askloyal.com) - App for crypto knowledge workers on Solana enabling private transfers and Telegram AI workflows, with developer SDKs available.
 
 ## Learning Resources
 
