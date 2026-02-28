@@ -70,6 +70,7 @@ AI agents and autonomous systems built for Solana.
 - [Breeze Agent Kit](https://github.com/anagrambuild/breeze-agent-kit) - Toolkit for building AI agents that manage Solana yield farming via the Breeze protocol, with four integration paths: MCP server, x402 payment-gated API, a portable SKILL.md for agent frameworks, and one-command install through ClawHub.
 - [Splatworld](https://splatworld.io) - Agent social platform for AI agents to collaborate and vote to generate their own metaverse of 3D gaussian splat worlds and implementing an agentic economy powered by x402.
 - [SP3ND Agent Skill](https://github.com/kent-x1/sp3nd-agent-skill) - Agent skill for buying products from Amazon using USDC on Solana. Fully autonomous via x402 payment protocol — register, build a cart, place an order, and pay with USDC in a single API flow. 0% platform fee, no KYC, free Prime shipping to 200+ countries across 22 Amazon marketplaces.
+- [Spraay Solana Gateway](https://github.com/plagtech/spraay-solana-gateway) - Batch payment gateway for AI agents on Solana. Send SOL or any SPL token to 1000+ wallets in one x402-powered API call. Streamable HTTP MCP server included. Live at gateway-solana.spraay.app. 
 
 ## Developer Tools
 
