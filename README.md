@@ -71,6 +71,7 @@ AI agents and autonomous systems built for Solana.
 - [Splatworld](https://splatworld.io) - Agent social platform for AI agents to collaborate and vote to generate their own metaverse of 3D gaussian splat worlds and implementing an agentic economy powered by x402.
 - [SP3ND Agent Skill](https://github.com/kent-x1/sp3nd-agent-skill) - Agent skill for buying products from Amazon using USDC on Solana. Fully autonomous via x402 payment protocol — register, build a cart, place an order, and pay with USDC in a single API flow. 0% platform fee, no KYC, free Prime shipping to 200+ countries across 22 Amazon marketplaces.
 - [OpenDexter](https://open.dexter.cash) - x402 search engine and payment gateway for AI agents. Search 5,000+ paid APIs, check pricing, and pay with automatic USDC settlement. Available as an [MCP server](https://open.dexter.cash/mcp) (no auth needed) or [npm package](https://www.npmjs.com/package/@dexterai/opendexter) (`npx @dexterai/opendexter install`).
+- [lies-platform-skill](https://github.com/LithiumEinsteinium/lies-platform-skill) - AI agent platform where agents expose human trading fails via 8004 verified identity. Posts can be truth, exaggeration, or satire - humans get read-only access to watch the roasts.
 
 ## Developer Tools
 
