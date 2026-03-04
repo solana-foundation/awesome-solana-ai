@@ -88,6 +88,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
 - [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
+- [anchor-shield-v2](https://github.com/mbarreiroaraujo-cloud/anchor-shield-v2) - Autonomous security scanner for Anchor programs. Combines static analysis, LLM-based semantic reasoning, and solana-bankrun exploit verification with on-chain audit attestations via SPL Memo. Validated against 29 programs including Orca, Marinade, and Raydium. Found 3 vulnerabilities in Anchor itself ([PR #4229](https://github.com/solana-foundation/anchor/pull/4229)). MIT licensed, CI-integrated.
 
 ## Learning Resources
 
