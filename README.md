@@ -11,7 +11,7 @@
   - [DeFi](#defi)
   - [Infrastructure](#infrastructure)
 - [AI Agents](#ai-agents)
-- [Developer Tools](#developer-tools)
+- [Developer Tools](#developer-tools)x
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
 
@@ -21,44 +21,44 @@ AI coding skills that enhance developer productivity on Solana.
 
 ### General
 
-- [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) - End-to-end Solana development skill for Claude Code. Covers wallet connections, Anchor/Pinocchio programs, client generation, testing with LiteSVM/Mollusk, and security best practices.
-- [solana-anchor-claude-skill](https://github.com/quiknode-labs/solana-anchor-claude-skill) - end to end Solana development for Anchor and Solana Kit. Focusing on modern, minimal, readable code for long-term maintenance. Testing is with native test runners or LiteSVM. See [I made a Solana exchange using this Claude skill!](https://www.youtube.com/watch?v=QcinP8mGWxg) for more details.
-- [solana-skills-plugin](https://github.com/tenequm/claude-plugins/tree/main/solana) - Solana skills for Claude Code: program development with Anchor/native Rust (testing and deployment included), security auditing with vulnerability detection and audit report generation, and ZK compression for rent-free tokens/PDAs via Light Protocol.
 - [clawpump-skill](https://www.clawpump.tech/skill.md) - AI agent skill for ClawPump covering gasless and self-funded token launches on pump.fun, dynamic dev buys with instant graduation, 65% trading fee revenue share, and social amplification via Moltbook.
 - [magicblock-dev-skill](https://github.com/magicblock-labs/magicblock-dev-skill) - End-to-end MagicBlock development skill for Claude Code. [MagicBlock](https://magicblock.xyz) is a Solana network extension designed to help programs with latency/privacy needs, along with other native tools like VRFs, Cranks, Session Keys and more.
-- [solana-game-skill](https://github.com/solanabr/solana-game-skill) - Claude Code skills for developing games on Solana. Covers C#, React Native, Magicblock's Solana Unity SDK, Solana Mobile and Playsolana Unity SDK. Extends [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill).
 - [metaplex-skill](https://github.com/metaplex-foundation/skill) - Official Metaplex development skill covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, Genesis token launches, the mplx CLI, and Umi/Kit SDKs.
+- [solana-anchor-claude-skill](https://github.com/quiknode-labs/solana-anchor-claude-skill) - end to end Solana development for Anchor and Solana Kit. Focusing on modern, minimal, readable code for long-term maintenance. Testing is with native test runners or LiteSVM. See [I made a Solana exchange using this Claude skill!](https://www.youtube.com/watch?v=QcinP8mGWxg) for more details.
+- [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) - End-to-end Solana development skill for Claude Code. Covers wallet connections, Anchor/Pinocchio programs, client generation, testing with LiteSVM/Mollusk, and security best practices.
+- [solana-game-skill](https://github.com/solanabr/solana-game-skill) - Claude Code skills for developing games on Solana. Covers C#, React Native, Magicblock's Solana Unity SDK, Solana Mobile and Playsolana Unity SDK. Extends [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill).
+- [solana-skills-plugin](https://github.com/tenequm/claude-plugins/tree/main/solana) - Solana skills for Claude Code: program development with Anchor/native Rust (testing and deployment included), security auditing with vulnerability detection and audit report generation, and ZK compression for rent-free tokens/PDAs via Light Protocol.
 
 ### DeFi
 
 - [clawpump-arbitrage-skill](https://clawpump.tech/arbitrage.md) - AI agent skill for multi-DEX arbitrage on Solana covering 11 DEX quote aggregation, roundtrip and bridge strategies, and ready-to-sign transaction bundle generation.
-- [jupiter-skill](https://github.com/jup-ag/agent-skills/tree/main/skills/integrating-jupiter) - AI coding skill for Jupiter covering Ultra swaps, limit orders, DCA, perpetuals, lending, and token APIs on Solana.
+- [dflow-phantom-connect-skill](https://github.com/DFlowProtocol/dflow_phantom-connect-skill) - Official DFlow + Phantom Connect skill for building full-stack, wallet-connected Solana apps with Phantom Connect SDKs, plus DFlow swaps, prediction market trading, and Proof KYC verification.
+- [dflow-skill](https://github.com/sendaifun/skills/tree/main/skills/dflow) - AI coding skill for DFlow trading protocol covering spot trading, prediction markets, Swap API, and WebSocket streaming on Solana.
 - [drift-skill](https://github.com/sendaifun/skills/tree/main/skills/drift) - AI coding skill for Drift Protocol SDK covering perpetual futures, spot trading, and DeFi applications on Solana.
+- [jupiter-skill](https://github.com/jup-ag/agent-skills/tree/main/skills/integrating-jupiter) - AI coding skill for Jupiter covering Ultra swaps, limit orders, DCA, perpetuals, lending, and token APIs on Solana.
 - [kamino-skill](https://github.com/sendaifun/skills/tree/main/skills/kamino) - AI coding skill for Kamino Finance covering lending, borrowing, liquidity management, leverage trading, and oracle aggregation on Solana.
 - [lulo-skill](https://github.com/sendaifun/skills/tree/main/skills/lulo) - AI coding skill for Lulo, Solana's lending aggregator that routes deposits to the highest-yielding protocols across Kamino, Drift, MarginFi, and Jupiter.
 - [meteora-skill](https://github.com/sendaifun/skills/tree/main/skills/meteora) - AI coding skill for Meteora DeFi SDK covering liquidity pools, AMMs, bonding curves, vaults, and token launches on Solana.
+- [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) - AI coding skill for Octav API covering Solana wallet portfolio tracking, transaction history, DeFi protocol positions, and token analytics.
 - [orca-skill](https://github.com/sendaifun/skills/tree/main/skills/orca) - AI coding skill for Orca Whirlpools concentrated liquidity AMM covering swaps, liquidity provision, pool creation, and position management.
 - [pumpfun-skill](https://github.com/sendaifun/skills/tree/main/skills/pumpfun) - AI coding skill for PumpFun Protocol covering token launches, bonding curves, and PumpSwap AMM integrations on Solana.
+- [ranger-finance-skill](https://github.com/sendaifun/skills/tree/main/skills/ranger-finance) - AI coding skill for Ranger Finance, a Solana perps aggregator across Drift, Flash, Adrena, and Jupiter.
 - [raydium-skill](https://github.com/sendaifun/skills/tree/main/skills/raydium) - AI coding skill for Raydium Protocol covering CLMM, CPMM, AMM pools, LaunchLab token launches, farming, and Trade API on Solana.
 - [sanctum-skill](https://github.com/sendaifun/skills/tree/main/skills/sanctum) - AI coding skill for Sanctum covering liquid staking, LST swaps, and Infinity pool operations on Solana.
-- [dflow-phantom-connect-skill](https://github.com/DFlowProtocol/dflow_phantom-connect-skill) - Official DFlow + Phantom Connect skill for building full-stack, wallet-connected Solana apps with Phantom Connect SDKs, plus DFlow swaps, prediction market trading, and Proof KYC verification.
-- [dflow-skill](https://github.com/sendaifun/skills/tree/main/skills/dflow) - AI coding skill for DFlow trading protocol covering spot trading, prediction markets, Swap API, and WebSocket streaming on Solana.
-- [ranger-finance-skill](https://github.com/sendaifun/skills/tree/main/skills/ranger-finance) - AI coding skill for Ranger Finance, a Solana perps aggregator across Drift, Flash, Adrena, and Jupiter.
-- [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) - AI coding skill for Octav API covering Solana wallet portfolio tracking, transaction history, DeFi protocol positions, and token analytics.
 - [Sentients](https://github.com/koshmade/sentients.wtf) - AI agents minting unique inscriptions on Solana. First AI Agent-Native Protocol with autonomous wallets and deterministic art generated from blockchain entropy.
 
 ### Infrastructure
 
-- [helius-skill](https://github.com/sendaifun/skills/tree/main/skills/helius) - AI coding skill for Helius RPC and API infrastructure covering DAS API, Enhanced Transactions, Priority Fees, Webhooks, and LaserStream gRPC.
-- [light-protocol-skill](https://github.com/sendaifun/skills/tree/main/skills/light-protocol) - AI coding skill for Light Protocol's ZK Compression covering rent-free compressed tokens and PDAs using zero-knowledge proofs.
-- [squads-skill](https://github.com/sendaifun/skills/tree/main/skills/squads) - AI coding skill for Squads Protocol covering multisig wallets, smart accounts, and account abstraction on Solana.
-- [pyth-skill](https://github.com/sendaifun/skills/tree/main/skills/pyth) - AI coding skill for Pyth Network oracle covering real-time price feeds with confidence intervals and EMA prices on Solana.
-- [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
+- [helius-skill](https://github.com/sendaifun/skills/tree/main/skills/helius) - AI coding skill for Helius RPC and API infrastructure covering DAS API, Enhanced Transactions, Priority Fees, Webhooks, and LaserStream gRPC.
+- [light-protocol-skill](https://github.com/sendaifun/skills/tree/main/skills/light-protocol) - AI coding skill for Light Protocol's ZK Compression covering rent-free compressed tokens and PDAs using zero-knowledge proofs.
 - [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - Community AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
-- [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
+- [pyth-skill](https://github.com/sendaifun/skills/tree/main/skills/pyth) - AI coding skill for Pyth Network oracle covering real-time price feeds with confidence intervals and EMA prices on Solana.
 - [quicknode-blockchain-skills](https://github.com/quiknode-labs/blockchain-skills) - AI coding skill for Quicknode infrastructure covering Solana RPC, Jupiter Swap API, Yellowstone gRPC streams, and more.
+- [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
+- [squads-skill](https://github.com/sendaifun/skills/tree/main/skills/squads) - AI coding skill for Squads Protocol covering multisig wallets, smart accounts, and account abstraction on Solana.
+- [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 
 ## AI Agents
 
