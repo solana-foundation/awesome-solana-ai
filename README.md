@@ -11,7 +11,7 @@
   - [DeFi](#defi)
   - [Infrastructure](#infrastructure)
 - [AI Agents](#ai-agents)
-- [Developer Tools](#developer-tools)x
+- [Developer Tools](#developer-tools)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
 
