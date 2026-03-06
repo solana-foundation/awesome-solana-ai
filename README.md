@@ -59,6 +59,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - Community AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
 - [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
 - [quicknode-blockchain-skills](https://github.com/quiknode-labs/blockchain-skills) - AI coding skill for Quicknode infrastructure covering Solana RPC, Jupiter Swap API, Yellowstone gRPC streams, and more.
+- [tns-skill](https://github.com/TokenNameService/tns-skill) - AI coding skill for TNS (Token Naming Service), a decentralized on-chain registry for unique token symbols on Solana covering symbol lookup, mint verification, registration, and CPI integration.
 
 ## AI Agents
 
