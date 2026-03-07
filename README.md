@@ -88,7 +88,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [LumoKit](https://github.com/Lumo-Labs-AI/lumokit) - Lightweight Python AI toolkit for Solana with on-chain actions, token swaps via Jupiter, and research capabilities for ecosystem developers.
 - [AImpact](https://aimpact.dev) - online AI-powered IDE for Web3 apps generation, including generating and deploying (currently to devnet, mainnet coming soon) Solana smart contracts.
 - [BlockRun](https://blockrun.ai) - Pay-per-request access to 40+ AI models (GPT, Claude, Gemini, Grok) with USDC on Solana via x402 micropayments — no API keys required, with Python, TypeScript, and Go SDKs.
-- [ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Agent-native LLM router with 41+ models and 4 routing profiles (auto/eco/premium/free) with <1ms local routing decisions, paying per request with USDC on Solana via x402. Winner of the USDC AI Agent Hackathon Agentic Commerce track.
+- [ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Award-winning open-source agent-native LLM router that scores 41+ models across 15 dimensions with sub-1ms local routing decisions and pays per request with USDC on Solana via x402.
 - [SATI (Solana Agent Trust Infrastructure)](https://github.com/cascade-protocol/sati) - ERC-8004 compliant agent identity and reputation with proof-of-participation: agents sign before knowing feedback outcomes.
 - [Exo AI Audits](https://ai-audits.exotechnologies.xyz) - AI-powered smart contract auditing platform for Solana programs.
 - [solana-kit-skill](https://github.com/sendaifun/skills/tree/main/skills/solana-kit) - AI coding skill for @solana/kit, the modern tree-shakeable zero-dependency JavaScript SDK from Anza for Solana.
