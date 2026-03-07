@@ -59,6 +59,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
 - [squads-skill](https://github.com/sendaifun/skills/tree/main/skills/squads) - AI coding skill for Squads Protocol covering multisig wallets, smart accounts, and account abstraction on Solana.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
+- [torch-market-skill](https://github.com/mrsirg97-rgb/torchsdk) - AI coding skill for Torch Market covering full-custody vault escrow for AI agents, token launches with bonding curves, community treasuries, lending markets, DEX trading via Raydium, and on-chain governance on Solana.
 
 ## AI Agents
 
