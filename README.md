@@ -50,6 +50,7 @@ AI coding skills that enhance developer productivity on Solana.
 ### Infrastructure
 
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
+- [metengine-skill](https://www.metengine.xyz/skill.md) - AI coding skill for MetEngine Data API covering real-time smart money analytics across Polymarket, Hyperliquid, and Meteora — including wallet scoring, insider detection, capital flow tracking, and whale activity — using x402 pay-per-request payments on Solana.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
 - [helius-skill](https://github.com/sendaifun/skills/tree/main/skills/helius) - AI coding skill for Helius RPC and API infrastructure covering DAS API, Enhanced Transactions, Priority Fees, Webhooks, and LaserStream gRPC.
 - [light-protocol-skill](https://github.com/sendaifun/skills/tree/main/skills/light-protocol) - AI coding skill for Light Protocol's ZK Compression covering rent-free compressed tokens and PDAs using zero-knowledge proofs.
