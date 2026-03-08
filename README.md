@@ -47,6 +47,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [sanctum-skill](https://github.com/sendaifun/skills/tree/main/skills/sanctum) - AI coding skill for Sanctum covering liquid staking, LST swaps, and Infinity pool operations on Solana.
 - [pnp-markets-skill](https://github.com/pnp-protocol/solana-skill) - AI coding skill for PNP Protocol covering permissionless prediction markets on Solana with V2 AMM, P2P betting, custom oracle settlement, and social media-linked markets.
 - [Sentients](https://github.com/koshmade/sentients.wtf) - AI agents minting unique inscriptions on Solana. First AI Agent-Native Protocol with autonomous wallets and deterministic art generated from blockchain entropy.
+- [TradeRouter-skill](https://github.com/re-bruce-wayne/openclaw-skills/blob/main/trade-router/SKILL.md) - AI coding skill for TradeRouter covering Solana token swaps, MEV-protected transaction submission, and market-cap-based limit/trailing/TWAP orders via REST and WebSocket.
 
 ### Infrastructure
 
@@ -98,6 +99,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
 - [Quicknode MCP](https://www.npmjs.com/package/@quicknode/mcp) - MCP server that lets AI agents provision and manage Quicknode blockchain infrastructure through natural language — set up Solana endpoints, monitor usage, and unlock blockchain operations without leaving your AI assistant.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
+- [TradeRouter MCP](https://www.npmjs.com/package/@re-bruce-wayne/trade-router-mcp) - MCP server for TradeRouter enabling AI agents to execute Solana swaps, place limit/trailing/TWAP orders, and manage positions via natural language with WebSocket-authenticated order management.
 
 ## Learning Resources
 
