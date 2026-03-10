@@ -86,6 +86,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
 - [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
+- [WZRD Attention Protocol MCP](https://github.com/twzrd-sol/wzrd-mcp) - MCP server for real-time AI model attention tracking on Solana with velocity EMA scoring and on-chain merkle roots across 16 tools. [Website](https://twzrd.xyz)
 
 ## Learning Resources
 
