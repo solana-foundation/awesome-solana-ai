@@ -55,7 +55,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [helius-skill](https://github.com/sendaifun/skills/tree/main/skills/helius) - AI coding skill for Helius RPC and API infrastructure covering DAS API, Enhanced Transactions, Priority Fees, Webhooks, and LaserStream gRPC.
 - [light-protocol-skill](https://github.com/sendaifun/skills/tree/main/skills/light-protocol) - AI coding skill for Light Protocol's ZK Compression covering rent-free compressed tokens and PDAs using zero-knowledge proofs.
 - [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - Community AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
-- [pyth-skill](https://github.com/sendaifun/skills/tree/main/skills/pyth) - AI coding skill for Pyth Network oracle covering real-time price feeds with confidence intervals and EMA prices on Solana.
+- [pyth-pro-skills](https://github.com/pyth-network/pyth-crosschain/tree/main/apps/mcp/skills) - AI coding skills for Pyth Pro MCP Server covering alert conditions, cross-asset comparison, data export, funding rate monitoring, FX conversion, integration helpers, portfolio tracking, time-series snapshots, and volatility analysis.
 - [quicknode-blockchain-skills](https://github.com/quiknode-labs/blockchain-skills) - AI coding skill for Quicknode infrastructure covering Solana RPC, Jupiter Swap API, Yellowstone gRPC streams, and more.
 - [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
 - [squads-skill](https://github.com/sendaifun/skills/tree/main/skills/squads) - AI coding skill for Squads Protocol covering multisig wallets, smart accounts, and account abstraction on Solana.
@@ -82,6 +82,7 @@ AI agents and autonomous systems built for Solana.
 
 AI-enhanced development tools for the Solana ecosystem.
 
+- [Pyth Pro MCP Server](https://github.com/pyth-network/pyth-crosschain/tree/main/apps/mcp) - MCP server for Pyth real-time and historical market data with price feeds, OHLC candlesticks, and historical snapshots across crypto, equities, FX, and commodities. Includes 9 companion [AI coding skills](https://github.com/pyth-network/pyth-crosschain/tree/main/apps/mcp/skills) for Claude Code.
 - [Solana Developer MCP](https://mcp.solana.com/) - Maintained by Solana. Solana MCP (Model Context Protocol) is a specialized AI assistant that integrates directly into AI-supported IDEs like Cursor and Windsurf (works with Claude CLI as well). Automatically queries the MCP server to provide accurate, up-to-date information from Solana and Anchor Framework documentation.
 - [DFlow MCP Server](https://pond.dflow.net/build/mcp) - Unified spot + prediction market trading API with smart routing and low-failure execution; MCP connects AI tools to DFlow docs, APIs, and code recipes for accurate integrations on Solana.
 - [Deside MCP](https://github.com/DesideApp/deside-mcp) - Wallet-to-wallet messaging primitive for Solana agents via MCP, where agents authenticate with an Ed25519 keypair and send DMs addressed by pubkey.
