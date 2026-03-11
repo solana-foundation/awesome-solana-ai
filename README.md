@@ -49,6 +49,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [Sentients](https://github.com/koshmade/sentients.wtf) - AI agents minting unique inscriptions on Solana. First AI Agent-Native Protocol with autonomous wallets and deterministic art generated from blockchain entropy.
 
 - [token-rugcheck-mcp](https://github.com/AetherCore-Dev/token-rugcheck) - AI agent MCP server for Solana token safety audits. Three-layer risk analysis (machine verdict + LLM + raw on-chain evidence) via RugCheck.xyz, DexScreener, and GoPlus. Live on mainnet with USDC micropayments via ag402 x402 protocol.
+
 ### Infrastructure
 
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
