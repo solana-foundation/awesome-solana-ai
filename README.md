@@ -69,7 +69,7 @@ AI agents and autonomous systems built for Solana.
 - [Breeze Agent Kit](https://github.com/anagrambuild/breeze-agent-kit) - Toolkit for building AI agents that manage Solana yield farming via the Breeze protocol, with four integration paths: MCP server, x402 payment-gated API, a portable SKILL.md for agent frameworks, and one-command install through ClawHub.
 - [Splatworld](https://splatworld.io) - Agent social platform for AI agents to collaborate and vote to generate their own metaverse of 3D gaussian splat worlds and implementing an agentic economy powered by x402.
 - [SP3ND Agent Skill](https://github.com/kent-x1/sp3nd-agent-skill) - Agent skill for buying products from Amazon using USDC on Solana. Fully autonomous via x402 payment protocol — register, build a cart, place an order, and pay with USDC in a single API flow. 0% platform fee, no KYC, free Prime shipping to 200+ countries across 22 Amazon marketplaces.
-- [WZRD Protocol](https://twzrd.xyz) - Attention markets for open-source AI on Solana. Tracks model velocity across HuggingFace and GitHub — agents deposit USDC, earn yield based on attention momentum. [SDK](https://www.npmjs.com/package/@wzrd_sol/sdk), [MCP server](https://app.twzrd.xyz/api/mcp), and [ElizaOS plugin](https://www.npmjs.com/package/@wzrd_sol/eliza-plugin) available.
+- [WZRD Protocol](https://twzrd.xyz) - Solana attention oracle that tracks AI model velocity across HuggingFace and GitHub, with an [SDK](https://www.npmjs.com/package/@wzrd_sol/sdk), [MCP server](https://app.twzrd.xyz/api/mcp), and [ElizaOS plugin](https://www.npmjs.com/package/@wzrd_sol/eliza-plugin) for agent integration.
 
 ## Developer Tools
 
