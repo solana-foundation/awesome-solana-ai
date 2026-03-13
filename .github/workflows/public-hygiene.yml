@@ -1,0 +1,60 @@
+name: Public Hygiene
+
+on:
+  pull_request:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  public-hygiene:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Scan tracked files for public leaks
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mapfile -t FILES < <(git ls-files)
+
+          if [ "${#FILES[@]}" -eq 0 ]; then
+            echo "No tracked files to scan"
+            exit 0
+          fi
+
+          echo "Checking committed paths..."
+          BAD_ENV=$(printf '%s\n' "${FILES[@]}" | grep -E '(^|/)\.env($|[./])' | grep -Ev '(^|/)\.env\.example$' || true)
+          if [ -n "$BAD_ENV" ]; then
+            echo "Forbidden .env-style files detected:"
+            echo "$BAD_ENV"
+            exit 1
+          fi
+
+          BAD_KEY_PATHS=$(printf '%s\n' "${FILES[@]}" | grep -E '(^|/).*(keypair|wallet|secret|private).*\.(json|pem|key)$|(^|/).*\.(pem|p12|key)$' || true)
+          if [ -n "$BAD_KEY_PATHS" ]; then
+            echo "Potential key material paths detected:"
+            echo "$BAD_KEY_PATHS"
+            exit 1
+          fi
+
+          echo "Checking file contents..."
+          BAD_SECRETS=$(git ls-files -z | xargs -0 rg -nI --pcre2 'BEGIN [A-Z ]*PRIVATE KEY|OPENSSH PRIVATE KEY|mnemonic|seed phrase|doppler_[A-Za-z0-9]+|Authorization:\s*Bearer\s+[A-Za-z0-9._-]{24,}|x-api-key:\s*[A-Za-z0-9._-]{24,}' || true)
+          if [ -n "$BAD_SECRETS" ]; then
+            echo "Potential hardcoded secret material detected:"
+            echo "$BAD_SECRETS"
+            exit 1
+          fi
+
+          DOC_FILES=$(git ls-files | grep -E '(^|/)(README.*|.*\.md|.*\.txt|.*\.ya?ml|.*\.toml|.*\.json|\.env\.example)$' || true)
+          BAD_IPS=$(printf '%s\n' "$DOC_FILES" | sed '/^$/d' | xargs -r rg -nI --pcre2 '\b(?!(?:127\.0\.0\.1|0\.0\.0\.0)\b)(?:\d{1,3}\.){3}\d{1,3}\b' || true)
+          if [ -n "$BAD_IPS" ]; then
+            echo "Non-local IPv4 literals detected:"
+            echo "$BAD_IPS"
+            exit 1
+          fi
+
+          echo "Public hygiene passed"
