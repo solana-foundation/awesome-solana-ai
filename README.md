@@ -43,6 +43,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [meteora-skill](https://github.com/sendaifun/skills/tree/main/skills/meteora) - AI coding skill for Meteora DeFi SDK covering liquidity pools, AMMs, bonding curves, vaults, and token launches on Solana.
 - [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) - AI coding skill for Octav API covering Solana wallet portfolio tracking, transaction history, DeFi protocol positions, and token analytics.
 - [orca-skill](https://github.com/sendaifun/skills/tree/main/skills/orca) - AI coding skill for Orca Whirlpools concentrated liquidity AMM covering swaps, liquidity provision, pool creation, and position management.
+- [phantom-connect](https://github.com/phantom/phantom-connect-cursor-plugin) - Official Phantom Connect SDK plugin for AI coding agents. Build wallet-connected Solana apps with social login (Google/Apple), transaction signing, token gating, and NFT minting using `@phantom/react-sdk`, `@phantom/react-native-sdk`, and `@phantom/browser-sdk`.
 - [pumpfun-skill](https://github.com/sendaifun/skills/tree/main/skills/pumpfun) - AI coding skill for PumpFun Protocol covering token launches, bonding curves, and PumpSwap AMM integrations on Solana.
 - [ranger-finance-skill](https://github.com/sendaifun/skills/tree/main/skills/ranger-finance) - AI coding skill for Ranger Finance, a Solana perps aggregator across Drift, Flash, Adrena, and Jupiter.
 - [raydium-skill](https://github.com/sendaifun/skills/tree/main/skills/raydium) - AI coding skill for Raydium Protocol covering CLMM, CPMM, AMM pools, LaunchLab token launches, farming, and Trade API on Solana.
@@ -80,6 +81,7 @@ AI agents and autonomous systems built for Solana.
 - [SP3ND Agent Skill](https://github.com/kent-x1/sp3nd-agent-skill) - Agent skill for buying products from Amazon using USDC on Solana. Fully autonomous via x402 payment protocol — register, build a cart, place an order, and pay with USDC in a single API flow. 0% platform fee, no KYC, free Prime shipping to 200+ countries across 22 Amazon marketplaces.
 - [OpenDexter](https://open.dexter.cash) - x402 search engine and payment gateway for AI agents. Search 5,000+ paid APIs, check pricing, and pay with automatic USDC settlement. Available as an [MCP server](https://open.dexter.cash/mcp) (no auth needed) or [npm package](https://www.npmjs.com/package/@dexterai/opendexter) (`npx @dexterai/opendexter install`).
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
+- [Phantom Wallet MCP](https://www.npmjs.com/package/@phantom/mcp-server) - Official Phantom wallet MCP server. Gives AI agents a Phantom wallet — sign transactions, transfer tokens, buy/swap tokens, and sign messages across Solana and other Phantom-supported chains.
 
 ## Developer Tools
 
@@ -99,6 +101,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
 - [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
+- [Phantom Connect SDK](https://docs.phantom.com) - Official Phantom Connect SDK documentation MCP server. Provides real-time API reference for building wallet-connected apps on Solana using `@phantom/react-sdk`, `@phantom/react-native-sdk`, and `@phantom/browser-sdk`.
 - [Quicknode MCP](https://www.npmjs.com/package/@quicknode/mcp) - MCP server that lets AI agents provision and manage Quicknode blockchain infrastructure through natural language — set up Solana endpoints, monitor usage, and unlock blockchain operations without leaving your AI assistant.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 
