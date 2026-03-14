@@ -99,6 +99,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
 - [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
+- [unclaimed-sol-mcp](https://github.com/unclaimed-sol/unclaimed-sol-mcp) - UnclaimedSOL MCP is a local-signing Solana claiming server that finds and claims dormant SOL from token accounts, buffers, DeFi rewards, and deactivated stake accounts.
 - [Quicknode MCP](https://www.npmjs.com/package/@quicknode/mcp) - MCP server that lets AI agents provision and manage Quicknode blockchain infrastructure through natural language — set up Solana endpoints, monitor usage, and unlock blockchain operations without leaving your AI assistant.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 
