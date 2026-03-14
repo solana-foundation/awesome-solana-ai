@@ -91,6 +91,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [SLO (Solana LLM Oracle)](https://github.com/GauravBurande/solana-llm-oracle) - Enables LLM inference directly in Solana programs for on-chain AI capabilities in games and protocols requiring autonomous functions.
 - [LumoKit](https://github.com/Lumo-Labs-AI/lumokit) - Lightweight Python AI toolkit for Solana with on-chain actions, token swaps via Jupiter, and research capabilities for ecosystem developers.
 - [AImpact](https://aimpact.dev) - online AI-powered IDE for Web3 apps generation, including generating and deploying (currently to devnet, mainnet coming soon) Solana smart contracts.
+- [byreal-cli](https://github.com/byreal-git/byreal-cli) - AI-friendly CLI for Byreal concentrated liquidity DEX on Solana, covering pools, tokens, swaps, positions, K-line data, and farmer rankings with structured JSON output for LLM agent integration.
 - [SATI (Solana Agent Trust Infrastructure)](https://github.com/cascade-protocol/sati) - ERC-8004 compliant agent identity and reputation with proof-of-participation: agents sign before knowing feedback outcomes.
 - [Exo AI Audits](https://ai-audits.exotechnologies.xyz) - AI-powered smart contract auditing platform for Solana programs.
 - [solana-kit-skill](https://github.com/sendaifun/skills/tree/main/skills/solana-kit) - AI coding skill for @solana/kit, the modern tree-shakeable zero-dependency JavaScript SDK from Anza for Solana.
