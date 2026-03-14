@@ -63,6 +63,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [squads-skill](https://github.com/sendaifun/skills/tree/main/skills/squads) - AI coding skill for Squads Protocol covering multisig wallets, smart accounts, and account abstraction on Solana.
 - [svm-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/svm) - Official Helius skill for exploring Solana's architecture and protocol internals covering the SVM execution engine, account model, consensus, transactions, validator economics, and token extensions using the Helius blog, SIMDs, and Agave/Firedancer source code.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
+- [torch-market-skill](https://github.com/mrsirg97-rgb/torchsdk) - AI coding skill for Torch Market covering full-custody vault escrow for AI agents, token launches with bonding curves, community treasuries, lending markets, DEX trading via Raydium, and on-chain governance on Solana.
 
 ## AI Agents
 
