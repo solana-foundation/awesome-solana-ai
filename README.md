@@ -65,6 +65,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [svm-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/svm) - Official Helius skill for exploring Solana's architecture and protocol internals covering the SVM execution engine, account model, consensus, transactions, validator economics, and token extensions using the Helius blog, SIMDs, and Agave/Firedancer source code.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
+- [wzrd-velocity](https://twzrd.xyz) - AI model velocity oracle tracking real-time adoption across HuggingFace, GitHub, OpenRouter, and ArtificialAnalysis with 17 Switchboard feeds on Solana mainnet and free signal API for agent routing.
 
 ## AI Agents
 
