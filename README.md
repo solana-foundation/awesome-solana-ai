@@ -69,6 +69,7 @@ AI coding skills that enhance developer productivity on Solana.
 ## AI Agents
 
 AI agents and autonomous systems built for Solana.
+- [MAXIA](https://github.com/majorelalexis-stack/maxia) - AI-to-AI marketplace on Solana with 46 MCP tools, USDC escrow, GPU auctions, and autonomous agent coordination across 14 blockchains.
 
 - [Chronoeffector AI Arena](https://arena.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Open-source toolkit connecting AI agents to 30+ Solana protocols with 50+ actions including token operations, NFTs, and swaps. Compatible with Eliza, LangChain, and Vercel AI SDK.
