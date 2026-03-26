@@ -83,6 +83,7 @@ AI agents and autonomous systems built for Solana.
 - [OpenDexter](https://open.dexter.cash) - x402 search engine and payment gateway for AI agents. Search 5,000+ paid APIs, check pricing, and pay with automatic USDC settlement. Available as an [MCP server](https://open.dexter.cash/mcp) (no auth needed) or [npm package](https://www.npmjs.com/package/@dexterai/opendexter) (`npx @dexterai/opendexter install`).
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 
+- [ClawPay](https://claw-pay.com) - Trustless escrow protocol for AI agent payments on Solana. Time-locked escrow with cryptographic receipts and stake-weighted arbitration pools. Python SDK (`pip install clawpay`), REST API, and Anchor IDL. 0.4s settlement, 2% fee on free tier.
 ## Developer Tools
 
 AI-enhanced development tools for the Solana ecosystem.
