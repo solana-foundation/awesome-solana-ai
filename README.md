@@ -105,6 +105,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Quicknode MCP](https://www.npmjs.com/package/@quicknode/mcp) - MCP server that lets AI agents provision and manage Quicknode blockchain infrastructure through natural language — set up Solana endpoints, monitor usage, and unlock blockchain operations without leaving your AI assistant.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
+- [The Agentcy](https://the-agentcy-production.up.railway.app) - MCP server backed by a fleet of 162 AI agents for Solana crypto intelligence; tools include real-time token prices (Birdeye), smart money wallet tracking (Helius), token scouting, Claude-powered market analysis, wallet generation, and on-chain risk assessment. Payments via x402 USDC micropayments on Solana — no API key required. [GitHub](https://github.com/lightbrushproject/autonomous-prime-new)
 
 ## Learning Resources
 
