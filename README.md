@@ -73,6 +73,7 @@ AI coding skills that enhance developer productivity on Solana.
 
 AI agents and autonomous systems built for Solana.
 
+- [AgentFolio](https://agentfolio.bot) - On-chain identity and reputation platform for AI agents on Solana, with SATP-verified profiles, multi-platform credential verification (GitHub, X, wallets), trust scoring, and an agent marketplace. Self-register via [skill.md](https://agentfolio.bot/skill.md).
 - [Chronoeffector AI Arena](https://arena.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Open-source toolkit connecting AI agents to 30+ Solana protocols with 50+ actions including token operations, NFTs, and swaps. Compatible with Eliza, LangChain, and Vercel AI SDK.
 - [Eliza Framework](https://github.com/elizaOS/eliza) - Lightweight TypeScript AI agent framework with Solana integrations, Twitter/X bots, and character-based configuration for agent behaviors.
