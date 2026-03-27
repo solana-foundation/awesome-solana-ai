@@ -87,6 +87,7 @@ AI agents and autonomous systems built for Solana.
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
 
+- [ClawPay](https://claw-pay.com) - Trustless escrow protocol for AI agent payments on Solana. Time-locked escrow with cryptographic receipts and stake-weighted arbitration pools. Python SDK (`pip install clawpay`), REST API, and Anchor IDL. 0.4s settlement, 2% fee on free tier.
 ## Developer Tools
 
 AI-enhanced development tools for the Solana ecosystem.
