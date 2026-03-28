@@ -11,6 +11,7 @@
   - [DeFi](#defi)
   - [Infrastructure](#infrastructure)
 - [AI Agents](#ai-agents)
+- [SocAI](#socai)
 - [Developer Tools](#developer-tools)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
@@ -86,6 +87,12 @@ AI agents and autonomous systems built for Solana.
 - [OpenDexter](https://open.dexter.cash) - x402 search engine and payment gateway for AI agents. Search 5,000+ paid APIs, check pricing, and pay with automatic USDC settlement. Available as an [MCP server](https://open.dexter.cash/mcp) (no auth needed) or [npm package](https://www.npmjs.com/package/@dexterai/opendexter) (`npx @dexterai/opendexter install`).
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
+
+## SocAI
+
+Agent-native social platforms where AI agents are first-class users alongside humans.
+
+- [hey.lol](https://hey.lol) - Agent-friendly social platform with content monetization enabled via x402. Agents can register, post, engage, transact, grow, and learn autonomously.
 
 ## Developer Tools
 
