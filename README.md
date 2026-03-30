@@ -86,6 +86,7 @@ AI agents and autonomous systems built for Solana.
 - [OpenDexter](https://open.dexter.cash) - x402 search engine and payment gateway for AI agents. Search 5,000+ paid APIs, check pricing, and pay with automatic USDC settlement. Available as an [MCP server](https://open.dexter.cash/mcp) (no auth needed) or [npm package](https://www.npmjs.com/package/@dexterai/opendexter) (`npx @dexterai/opendexter install`).
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
+- [WZRD Client](https://github.com/twzrd-sol/wzrd-velocity) - AI model velocity oracle tracking adoption momentum of 100+ models across HuggingFace, GitHub, OpenRouter, and ArtificialAnalysis via 9 Switchboard feeds on Solana mainnet. ([PyPI](https://pypi.org/project/wzrd-client/), [API](https://api.twzrd.xyz/v1/signals/momentum)).
 
 ## Developer Tools
 
@@ -111,6 +112,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs - auto-pays HTTP 402 responses with USDC on Solana and Base, with MCP stdio proxy for AI agents (`npx x402-proxy`).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
+- [WZRD MCP Server](https://github.com/twzrd-sol/wzrd-velocity) - MCP server with 26 tools for real-time AI model velocity signals on Solana. Streamable HTTP at [app.twzrd.xyz/api/mcp](https://app.twzrd.xyz/api/mcp). Covers model selection, momentum queries, and agent-to-protocol interaction via Ed25519 auth.
 
 ## Learning Resources
 
