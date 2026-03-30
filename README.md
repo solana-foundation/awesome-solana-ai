@@ -49,6 +49,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [ranger-finance-skill](https://github.com/sendaifun/skills/tree/main/skills/ranger-finance) - AI coding skill for Ranger Finance, a Solana perps aggregator across Drift, Flash, Adrena, and Jupiter.
 - [raydium-skill](https://github.com/sendaifun/skills/tree/main/skills/raydium) - AI coding skill for Raydium Protocol covering CLMM, CPMM, AMM pools, LaunchLab token launches, farming, and Trade API on Solana.
 - [sanctum-skill](https://github.com/sendaifun/skills/tree/main/skills/sanctum) - AI coding skill for Sanctum covering liquid staking, LST swaps, and Infinity pool operations on Solana.
+- [soulpass-skill](https://github.com/soulpassai/soulpass-skill) - Hardware-secured Solana trading terminal for AI agents covering Jupiter DEX swaps, meme coin trading with rug-pull detection, DeFi yield, and automated trading bots with keys in Apple Secure Enclave.
 - [pnp-markets-skill](https://github.com/pnp-protocol/solana-skill) - AI coding skill for PNP Protocol covering permissionless prediction markets on Solana with V2 AMM, P2P betting, custom oracle settlement, and social media-linked markets.
 - [Sentients](https://github.com/koshmade/sentients.wtf) - AI agents minting unique inscriptions on Solana. First AI Agent-Native Protocol with autonomous wallets and deterministic art generated from blockchain entropy.
 
