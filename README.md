@@ -7,7 +7,7 @@
 ## Contents
 
 - [AI Coding Skills](#ai-coding-skills)
-  - [General](#general
+  - [General](#general)
   - [DeFi](#defi)
   - [Infrastructure](#infrastructure)
 - [AI Agents](#ai-agents)
@@ -76,7 +76,7 @@ AI agents and autonomous systems built for Solana.
 - [Chronoeffector AI Arena](https://arena.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Open-source toolkit connecting AI agents to 30+ Solana protocols with 50+ actions including token operations, NFTs, and swaps. Compatible with Eliza, LangChain, and Vercel AI SDK.
 - [Eliza Framework](https://github.com/elizaOS/eliza) - Lightweight TypeScript AI agent framework with Solana integrations, Twitter/X bots, and character-based configuration for agent behaviors.
-[GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
+- [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
 - [ClawPay](https://github.com/jakemeyer125design/solana-agent-kit-clawpay) - Trustless on-chain escrow for AI agent-to-agent payments on Solana with auto-refund deadlines, stake-weighted dispute resolution, and a drop-in Solana Agent Kit plugin.
 - [AgenC](https://github.com/tetsuo-ai/AgenC) - Privacy-focused multi-agent coordination framework with ZK proof integrations and confidential compute for Solana.
 - [CYNIC](https://github.com/zeyxx/CYNIC) - Decentralized collective consciousness with 11 AI agents. Anchors judgments on Solana via Proof of Judgment (PoJ), verifies burns on-chain, and uses φ-weighted E-Score for reputation.
