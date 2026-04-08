@@ -54,6 +54,7 @@ AI coding skills that enhance developer productivity on Solana.
 
 ### Infrastructure
 
+- [AgentLedger SDK](https://github.com/kevincolahan/agentledger) - Compliance audit layer for Solana AI agents. Authorization records, decision audit trails Merkle-anchored on-chain, CMMC/NIST formatted audit packages, and IRS 2026 per-wallet tax reporting. Compatible with ElizaOS, Solana Agent Kit, and GOAT. [npm](https://npmjs.com/package/@agentledger/sdk) | [Live](https://agentledger-gilt.vercel.app)
 - [agentic-gateway](https://github.com/alchemyplatform/skills/tree/main/skills/agentic-gateway) - Official Alchemy skill for accessing Solana and multi-chain blockchain APIs through wallet-based x402 flows, with SIWS support for Solana wallets.
 - [alchemy-api](https://github.com/alchemyplatform/skills/tree/main/skills/alchemy-api) - Official Alchemy skill for Solana RPC, DAS, Yellowstone gRPC, token prices, NFT data, and multi-chain blockchain development using an Alchemy API key.
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
@@ -91,6 +92,7 @@ AI agents and autonomous systems built for Solana.
 
 AI-enhanced development tools for the Solana ecosystem.
 
+- [AgentLedger MCP](https://github.com/kevincolahan/agentledger) - MCP server for Claude Code agents. 10 tools: authorization checks, audit trail logging, on-chain anchor verification, policy findings, and compliance report generation for Solana agent operators. [npm](https://npmjs.com/package/@agentledger/mcp)
 - [Solana Developer MCP](https://mcp.solana.com/) - Maintained by Solana. Solana MCP (Model Context Protocol) is a specialized AI assistant that integrates directly into AI-supported IDEs like Cursor and Windsurf (works with Claude CLI as well). Automatically queries the MCP server to provide accurate, up-to-date information from Solana and Anchor Framework documentation.
 - [DFlow MCP Server](https://pond.dflow.net/build/mcp) - Unified spot + prediction market trading API with smart routing and low-failure execution; MCP connects AI tools to DFlow docs, APIs, and code recipes for accurate integrations on Solana.
 - [Deside MCP](https://github.com/DesideApp/deside-mcp) - Wallet-to-wallet messaging primitive for Solana agents via MCP, where agents authenticate with an Ed25519 keypair and send DMs addressed by pubkey.
