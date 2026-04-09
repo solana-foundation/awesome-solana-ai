@@ -77,6 +77,7 @@ AI agents and autonomous systems built for Solana.
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Open-source toolkit connecting AI agents to 30+ Solana protocols with 50+ actions including token operations, NFTs, and swaps. Compatible with Eliza, LangChain, and Vercel AI SDK.
 - [Eliza Framework](https://github.com/elizaOS/eliza) - Lightweight TypeScript AI agent framework with Solana integrations, Twitter/X bots, and character-based configuration for agent behaviors.
 - [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
+- [Hub](https://github.com/zcombinator/hub) - Agent trust infrastructure for Solana. Obliges agents to make verifiable commitments, tracks fulfillment (resolved vs ghosted), and computes behavioral trust scores with on-chain anchoring via the Hub Evidence Anchor program (spJAH8). MCP tools: get_behavioral_history(), get_obligation_bundle(), route_work(). W3C DID service type proposal (BehavioralHistoryService) under review via PR #693 on w3c/did-extensions.
 - [AgenC](https://github.com/tetsuo-ai/AgenC) - Privacy-focused multi-agent coordination framework with ZK proof integrations and confidential compute for Solana.
 - [CYNIC](https://github.com/zeyxx/CYNIC) - Decentralized collective consciousness with 11 AI agents. Anchors judgments on Solana via Proof of Judgment (PoJ), verifies burns on-chain, and uses φ-weighted E-Score for reputation.
 - [Breeze Agent Kit](https://github.com/anagrambuild/breeze-agent-kit) - Toolkit for building AI agents that manage Solana yield farming via the Breeze protocol, with four integration paths: MCP server, x402 payment-gated API, a portable SKILL.md for agent frameworks, and one-command install through ClawHub.
@@ -128,3 +129,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
