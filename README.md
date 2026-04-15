@@ -56,6 +56,7 @@ AI coding skills that enhance developer productivity on Solana.
 
 - [agentic-gateway](https://github.com/alchemyplatform/skills/tree/main/skills/agentic-gateway) - Official Alchemy skill for accessing Solana and multi-chain blockchain APIs through wallet-based x402 flows, with SIWS support for Solana wallets.
 - [alchemy-api](https://github.com/alchemyplatform/skills/tree/main/skills/alchemy-api) - Official Alchemy skill for Solana RPC, DAS, Yellowstone gRPC, token prices, NFT data, and multi-chain blockchain development using an Alchemy API key.
+- [arcium-skill](https://github.com/arcium-hq/agent-skills/tree/main/skills/arcium) - AI coding skill for Arcium covering computation on encrypted data on Solana — dark pools, sealed-bid auctions, encrypted voting, and confidential DeFi.
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
 - [helius-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/helius) - Official Helius development skill covering transaction sending (Sender), asset/NFT queries (DAS API), real-time streaming (WebSockets, LaserStream), event pipelines (webhooks), priority fees, wallet analysis, and agent onboarding.
