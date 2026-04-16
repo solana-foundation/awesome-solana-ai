@@ -111,6 +111,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs - auto-pays HTTP 402 responses with USDC on Solana and Base, with MCP stdio proxy for AI agents (`npx x402-proxy`).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
+- [Noesis MCP Server](https://github.com/Rengon0x/NoesisAPI) - Solana on-chain intelligence with 20 MCP tools covering token analysis (scans, bundles, fresh wallets, team supply, dev profiling), wallet profiling (PnL, connections, history), cross-token detection (shared holders/traders), and on-chain data (fees, transaction parsing). Hosted Streamable HTTP at https://noesisapi.dev/mcp. Also offers a REST API (40+ endpoints) and SDKs for [TypeScript](https://www.npmjs.com/package/noesis-api), [Python](https://pypi.org/project/noesis-api/), and [Rust](https://crates.io/crates/noesis-api).
 
 ## Learning Resources
 
