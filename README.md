@@ -119,8 +119,7 @@ Educational resources combining AI and Solana development.
 - **[Private AI Commerce Demo: Shadow Agent Protocol on Solana](https://ashborn-sol.vercel.app/demo/shadow-agent)** — Interactive demo of fully autonomous AI agents conducting private on-chain commerce. Showcases integration of Ashborn (with Light Protocol and ZK Groth16) for stealth/privacy-protected transactions, PrivacyCash for enhanced anonymity, and x402 protocol flows for micropayments. Includes real TypeScript SDK code examples for stealth transfers, shielding funds, and agent-to-agent payments. Ideal for developers exploring agentic AI systems with maximum privacy on Solana.
   - Tools featured: [Ashborn](https://github.com/AlleyBo55/ashborn) | [Micropay x402 Paywall](https://github.com/AlleyBo55/micropay-solana-x402-paywall)
 
-- **[cipher-starter: AI-assisted Solana signal engine playbook](https://github.com/cryptomotifs/cipher-starter)** — 150-page bundle documenting a 10-category confirmation-matrix AI signal stack (IC-weighted ensemble of Kronos + CatBoost + FinBERT2 + PyOD + HMM + Kalman + STUMPY + LLM analyst aggregator) designed for solo-dev deployment on Solana with $0/mo infrastructure. Includes architecture docs, risk rails, and Canadian compliance memo.
-  - Landing: [cryptomotifs.github.io/cipher-starter](https://cryptomotifs.github.io/cipher-starter/)
+- [cipher-starter](https://github.com/cryptomotifs/cipher-starter) - 150-page educational playbook documenting an AI-assisted Solana signal engine stack (Kronos, CatBoost, FinBERT2, PyOD, HMM, Kalman, STUMPY, LLM analyst) for solo devs.
 
 ## Contributing
 
