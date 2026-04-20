@@ -71,6 +71,35 @@ AI coding skills that enhance developer productivity on Solana.
 
 ## AI Agents
 
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+- [WhiteOwl](https://github.com/whiteowl-engine/WhiteOwl) â€” Local-first multi-agent AI trading panel specifically built for Solana memecoins and shitcoins.
+
+
 AI agents and autonomous systems built for Solana.
 
 - [Chronoeffector AI Arena](https://arena.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
