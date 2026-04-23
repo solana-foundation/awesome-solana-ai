@@ -111,6 +111,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs - auto-pays HTTP 402 responses with USDC on Solana and Base, with MCP stdio proxy for AI agents (`npx x402-proxy`).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
+- [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Managed crypto market infrastructure for AI — live prices, DeFi activity, wallet positions, and token risk on Solana (via Helius) alongside every major EVM chain, exposed through a single MCP server, REST API, or CLI. Hundreds of normalized tools across 14 category-scoped endpoints covering SPL token pricing, Solana DEX analytics, wallet positions, rug-check risk signals, and derivatives data.
 
 ## Learning Resources
 
