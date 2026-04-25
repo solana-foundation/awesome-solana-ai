@@ -48,6 +48,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [pnp-markets-skill](https://github.com/pnp-protocol/solana-skill) - AI coding skill for PNP Protocol covering permissionless prediction markets on Solana with V2 AMM, P2P betting, custom oracle settlement, and social media-linked markets.
 - [Sentients](https://github.com/koshmade/sentients.wtf) - AI agents minting unique inscriptions on Solana. First AI Agent-Native Protocol with autonomous wallets and deterministic art generated from blockchain entropy.
 
+- [trade-router-skill](https://github.com/re-bruce-wayne/openclaw-skills/tree/main/trade-router) - AI coding skill for Trade Router covering non-custodial Solana swaps with multi-DEX routing across Raydium, PumpSwap, Orca, and Meteora, Jito MEV-protected execution via /protect, and limit/trailing/TWAP/combo orders over WebSocket. The agent signs locally; the API never holds keys.
 ### Infrastructure
 
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
@@ -99,6 +100,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Quicknode MCP](https://www.npmjs.com/package/@quicknode/mcp) - MCP server that lets AI agents provision and manage Quicknode blockchain infrastructure through natural language — set up Solana endpoints, monitor usage, and unlock blockchain operations without leaving your AI assistant.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 
+- [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
 ## Learning Resources
 
 Educational resources combining AI and Solana development.
