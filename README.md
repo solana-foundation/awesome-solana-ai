@@ -86,7 +86,6 @@ AI agents and autonomous systems built for Solana.
 - [OpenDexter](https://open.dexter.cash) - x402 search engine and payment gateway for AI agents. Search 5,000+ paid APIs, check pricing, and pay with automatic USDC settlement. Available as an [MCP server](https://open.dexter.cash/mcp) (no auth needed) or [npm package](https://www.npmjs.com/package/@dexterai/opendexter) (`npx @dexterai/opendexter install`).
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
-- [KR Crypto Intelligence](https://api.printmoneylab.com) - x402-powered Korean crypto market data API for AI agents. 11 paid endpoints including world's first Korean-to-English sentiment analysis, Kimchi Premium across 180+ tokens, and Global vs Korea divergence with structured AI breakdown. USDC payments on Base, Polygon, and Solana.
 
 ## Developer Tools
 
@@ -112,9 +111,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs - auto-pays HTTP 402 responses with USDC on Solana and Base, with MCP stdio proxy for AI agents (`npx x402-proxy`).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
-- [KR Crypto Intelligence](https://api.printmoneylab.com) - Korean crypto market data API for AI agents with x402-paid endpoints (Kimchi Premium, stablecoin premium, Upbit/Bithumb prices, USD/KRW FX rate) supporting both Base and Solana USDC payments, with MCP server included. [Source](https://github.com/bakyang2/kr-crypto-intelligence)
-
-## Learning Resources
+- [KR Crypto Intelligence](https://api.printmoneylab.com) - x402-powered Korean crypto market data API for AI agents with USDC payments on Base, Polygon, and Solana, providing 11 endpoints including Korean-to-English sentiment analysis, Kimchi Premium across 180+ tokens, and Global vs Korea divergence with AI breakdown.
 
 Educational resources combining AI and Solana development.
 
