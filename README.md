@@ -86,7 +86,9 @@ AI agents and autonomous systems built for Solana.
 - [OpenDexter](https://open.dexter.cash) - x402 search engine and payment gateway for AI agents. Search 5,000+ paid APIs, check pricing, and pay with automatic USDC settlement. Available as an [MCP server](https://open.dexter.cash/mcp) (no auth needed) or [npm package](https://www.npmjs.com/package/@dexterai/opendexter) (`npx @dexterai/opendexter install`).
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
-- [Suede](https://suedeai.ai/) - AI agents that generate music and video, then automatically register ownership on-chain via 6 live smart contracts on Solana and Base. Autonomous agents handle licensing and royalty routing via x402 and ERC-8004 without human intervention. VoicePrint identity layer proves authorship using patented zero-knowledge biometrics. $2.3M+ paid to creators, 3,500+ ambassadors. Token: $SUEDE.
+- [Suede](https://suedeai.ai/) - Solana-native AI agents for on-chain IP registration, licensing, and automated royalty distribution to creators.
+```
+
 
 ## Developer Tools
 
