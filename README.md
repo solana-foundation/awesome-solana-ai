@@ -66,6 +66,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [solana-dev-skill-rent-free](https://github.com/Lightprotocol/skills) - Solana development agent skills for Claude Code, OpenClaw and others. Covers client and Anchor/Pinocchio program development without rent-exemption for defi, payments, token distribution, ZK Solana programs and debugging.
 - [squads-skill](https://github.com/sendaifun/skills/tree/main/skills/squads) - AI coding skill for Squads Protocol covering multisig wallets, smart accounts, and account abstraction on Solana.
 - [svm-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/svm) - Official Helius skill for exploring Solana's architecture and protocol internals covering the SVM execution engine, account model, consensus, transactions, validator economics, and token extensions using the Helius blog, SIMDs, and Agave/Firedancer source code.
+- [snap-protocol-skill](https://github.com/agentzeny/snap-public/tree/main/integrations) - AI coding skill for SNAP Protocol covering private agent-to-agent payments on Solana using Groth16 ZK proofs, with adapters for MCP, LangChain, ElizaOS, Coinbase AgentKit, OpenClaw, and Hermes.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
 
@@ -74,6 +75,7 @@ AI coding skills that enhance developer productivity on Solana.
 AI agents and autonomous systems built for Solana.
 
 - [Chronoeffector AI Arena](https://arena.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
+- [SNAP Protocol](https://github.com/agentzeny/snap-public) - Private agent-to-agent payments on Solana mainnet using Groth16 ZK proofs. SDK (`snap-solana-sdk`), Solana Agent Kit plugin, and 6 framework adapters (MCP, LangChain, ElizaOS, AgentKit, OpenClaw, Hermes).
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Open-source toolkit connecting AI agents to 30+ Solana protocols with 50+ actions including token operations, NFTs, and swaps. Compatible with Eliza, LangChain, and Vercel AI SDK.
 - [Eliza Framework](https://github.com/elizaOS/eliza) - Lightweight TypeScript AI agent framework with Solana integrations, Twitter/X bots, and character-based configuration for agent behaviors.
 - [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
