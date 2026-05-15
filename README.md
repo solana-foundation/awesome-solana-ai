@@ -72,10 +72,8 @@ AI coding skills that enhance developer productivity on Solana.
 
 ### Mobile & Seeker
 
-AI coding skills for Solana Mobile (Seeker) dApps.
-
-- [solana-mobile-dev-skill](https://github.com/solana-mobile/solana-mobile-dev-skill) - Official Solana Mobile skills covering Mobile Wallet Adapter (setup, connection, transactions), `.skr` domain resolution, and Seeker Genesis Token verification for React Native Expo apps.
 - [seeker-skills](https://github.com/Sarthib7/seeker-skills) - End-to-end skills for building a Seeker dApp: scaffold + Android toolchain, UX conventions (one-tap approval, haptics, AMOLED, 120 Hz), USDC/SOL payments via MWA, Seed Vault for wallet developers, and dApp Store APK signing + publishing via `@solana-mobile/dapp-store-cli`.
+- [solana-mobile-dev-skill](https://github.com/solana-mobile/solana-mobile-dev-skill) - Official Solana Mobile skills covering Mobile Wallet Adapter (setup, connection, transactions), `.skr` domain resolution, and Seeker Genesis Token verification for React Native Expo apps.
 
 ## AI Agents
 
