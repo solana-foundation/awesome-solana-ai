@@ -10,6 +10,7 @@
   - [General](#general)
   - [DeFi](#defi)
   - [Infrastructure](#infrastructure)
+  - [Mobile & Seeker](#mobile--seeker)
 - [AI Agents](#ai-agents)
 - [Developer Tools](#developer-tools)
 - [Learning Resources](#learning-resources)
@@ -68,6 +69,11 @@ AI coding skills that enhance developer productivity on Solana.
 - [svm-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/svm) - Official Helius skill for exploring Solana's architecture and protocol internals covering the SVM execution engine, account model, consensus, transactions, validator economics, and token extensions using the Helius blog, SIMDs, and Agave/Firedancer source code.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
+
+### Mobile & Seeker
+
+- [seeker-skills](https://github.com/Sarthib7/seeker-skills) - End-to-end skills for building a Seeker dApp: scaffold + Android toolchain, UX conventions (one-tap approval, haptics, AMOLED, 120 Hz), USDC/SOL payments via MWA, Seed Vault for wallet developers, and dApp Store APK signing + publishing via `@solana-mobile/dapp-store-cli`.
+- [solana-mobile-dev-skill](https://github.com/solana-mobile/solana-mobile-dev-skill) - Official Solana Mobile skills covering Mobile Wallet Adapter (setup, connection, transactions), `.skr` domain resolution, and Seeker Genesis Token verification for React Native Expo apps.
 
 ## AI Agents
 
