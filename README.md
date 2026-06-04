@@ -30,6 +30,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) - End-to-end Solana development skill for Claude Code. Covers wallet connections, Anchor/Pinocchio programs, client generation, testing with LiteSVM/Mollusk, and security best practices.
 - [solana-game-skill](https://github.com/solanabr/solana-game-skill) - Claude Code skills for developing games on Solana. Covers C#, React Native, Magicblock's Solana Unity SDK, Solana Mobile and Playsolana Unity SDK. Extends [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill).
 - [solana-skills-plugin](https://github.com/tenequm/claude-plugins/tree/main/solana) - Solana skills for Claude Code: program development with Anchor/native Rust (testing and deployment included), security auditing with vulnerability detection and audit report generation, and ZK compression for rent-free tokens/PDAs via Light Protocol.
+- [solana-rug](https://github.com/rugpullnet/solana-rug) - Open-source on-chain rug-pull detection for Solana tokens and wallets. 13-factor safety analysis using public RPCs and DexScreener API. Works as a Hermes skill or standalone CLI. Covers mint authority, freeze authority, liquidity depth, top-holder concentration, sniper detection, volume-to-liquidity wash trading analysis, and Token-2022 support. No API keys required.
 
 ### DeFi
 
