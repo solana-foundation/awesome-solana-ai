@@ -87,6 +87,7 @@ AI agents and autonomous systems built for Solana.
 - [OpenDexter](https://open.dexter.cash) - x402 search engine and payment gateway for AI agents. Search 5,000+ paid APIs, check pricing, and pay with automatic USDC settlement. Available as an [MCP server](https://open.dexter.cash/mcp) (no auth needed) or [npm package](https://www.npmjs.com/package/@dexterai/opendexter) (`npx @dexterai/opendexter install`).
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
+- [KR Crypto Intelligence](https://api.printmoneylab.com) - Korean data API for AI agents. 15 paid endpoints: 11 crypto (Kimchi Premium, Upbit/Bithumb prices, AI-translated Korean sentiment, divergence analysis, arbitrage scanning across 189+ tokens) + 4 Korean news → English (K-pop artists, semiconductor industry with AI sentiment). x402 native on Solana, Base, and Polygon. CDP Bazaar indexed. AWS Bedrock AgentCore-ready.
 
 ## Developer Tools
 
