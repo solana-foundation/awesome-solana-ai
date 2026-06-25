@@ -54,7 +54,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [Sentients](https://github.com/koshmade/sentients.wtf) - AI agents minting unique inscriptions on Solana. First AI Agent-Native Protocol with autonomous wallets and deterministic art generated from blockchain entropy.
 
 ### Infrastructure
-
+- [jito-restaking-skill](https://github.com/smile-XX/jito-restaking-skill/tree/SKILL) - AI coding skill for Jito Restaking covering NCNs, VRTs, vault operations, stake delegation, and restaking reward flows on Solana.
 - [agentic-gateway](https://github.com/alchemyplatform/skills/tree/main/skills/agentic-gateway) - Official Alchemy skill for accessing Solana and multi-chain blockchain APIs through wallet-based x402 flows, with SIWS support for Solana wallets.
 - [alchemy-api](https://github.com/alchemyplatform/skills/tree/main/skills/alchemy-api) - Official Alchemy skill for Solana RPC, DAS, Yellowstone gRPC, token prices, NFT data, and multi-chain blockchain development using an Alchemy API key.
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
