@@ -76,6 +76,7 @@ AI coding skills that enhance developer productivity on Solana.
 AI agents and autonomous systems built for Solana.
 
 - [Chronoeffector AI Arena](https://arena.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
+- [DAY Protocol](https://dayprotocol.com) - Agent-native non-custodial yield router with Solana day_router program, Auto Pay residual rails, x402, and wallet-only identity. Open SDK + agent skill. ([SDK](https://github.com/dayprotocol/sdk) · [Docs](https://docs.dayprotocol.com) · [skill.md](https://dayprotocol.com/skill.md))
 - [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit) - Open-source toolkit connecting AI agents to 30+ Solana protocols with 50+ actions including token operations, NFTs, and swaps. Compatible with Eliza, LangChain, and Vercel AI SDK.
 - [Eliza Framework](https://github.com/elizaOS/eliza) - Lightweight TypeScript AI agent framework with Solana integrations, Twitter/X bots, and character-based configuration for agent behaviors.
 - [GOAT Framework](https://github.com/goat-sdk/goat) - Open-source toolkit for connecting AI agents to 200+ onchain tools with multi-chain support including Solana, EVM, and more.
