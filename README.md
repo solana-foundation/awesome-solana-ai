@@ -59,6 +59,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [alchemy-api](https://github.com/alchemyplatform/skills/tree/main/skills/alchemy-api) - Official Alchemy skill for Solana RPC, DAS, Yellowstone gRPC, token prices, NFT data, and multi-chain blockchain development using an Alchemy API key.
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
+- [gentech-agent-kit](https://github.com/ProtoJay4789/genTech-agent-kit) - AI agent toolkit for building x402 payment-gated APIs, ERC-8004 on-chain identity, and multi-agent systems on Solana and EVM chains. Includes production x402 payment gateway with 16 endpoints across DeFi intelligence, gaming, NFTs, security, and price monitoring.
 - [helius-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/helius) - Official Helius development skill covering transaction sending (Sender), asset/NFT queries (DAS API), real-time streaming (WebSockets, LaserStream), event pipelines (webhooks), priority fees, wallet analysis, and agent onboarding.
 - [light-protocol-skill](https://github.com/sendaifun/skills/tree/main/skills/light-protocol) - AI coding skill for Light Protocol's ZK Compression covering rent-free compressed tokens and PDAs using zero-knowledge proofs.
 - [metaplex-skill](https://github.com/sendaifun/skills/tree/main/skills/metaplex) - Community AI coding skill for Metaplex Protocol covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, and the Umi framework.
@@ -68,9 +69,6 @@ AI coding skills that enhance developer productivity on Solana.
 - [squads-skill](https://github.com/sendaifun/skills/tree/main/skills/squads) - AI coding skill for Squads Protocol covering multisig wallets, smart accounts, and account abstraction on Solana.
 - [svm-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/svm) - Official Helius skill for exploring Solana's architecture and protocol internals covering the SVM execution engine, account model, consensus, transactions, validator economics, and token extensions using the Helius blog, SIMDs, and Agave/Firedancer source code.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
-- [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
-- [gentech-agent-kit](https://github.com/ProtoJay4789/genTech-agent-kit) - AI agent toolkit for building and consuming payment-gated x402 APIs on Solana with 16 production endpoints across DeFi intelligence, gaming, NFTs, security, and price monitoring.
-- [orquestra](https://github.com/berkayoztunc/orquestra) - Open-source platform that instantly converts Solana Anchor and Codama IDLs into hosted REST APIs, AI-ready documentation, and public MCP server (`https://api.orquestra.dev/mcp`) for AI agents and developers.
 
 ## AI Agents
 
@@ -114,7 +112,6 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs - auto-pays HTTP 402 responses with USDC on Solana and Base, with MCP stdio proxy for AI agents (`npx x402-proxy`).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
-- [GenTech x402 Gateway](https://github.com/ProtoJay4789/genTech-agent-kit#x402-payment-gateway) - Production-ready x402 payment gateway for AI agents with 16 endpoints across DeFi intelligence, gaming, NFTs, security, and price monitoring priced per call via USDC on Solana, Base, or Arbitrum.
 
 ## Learning Resources
 
