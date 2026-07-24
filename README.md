@@ -94,6 +94,7 @@ AI agents and autonomous systems built for Solana.
 AI-enhanced development tools for the Solana ecosystem.
 
 - [Solana Developer MCP](https://mcp.solana.com/) - Maintained by Solana. Solana MCP (Model Context Protocol) is a specialized AI assistant that integrates directly into AI-supported IDEs like Cursor and Windsurf (works with Claude CLI as well). Automatically queries the MCP server to provide accurate, up-to-date information from Solana and Anchor Framework documentation.
+- [Utilia Solana Preflight](https://utilia.ink) - Pay-per-call x402 API and MCP server for Solana transaction simulation, failure diagnostics, priority-fee estimates, and token-risk signals, payable in USDC without an account or API key.
 - [DFlow MCP Server](https://pond.dflow.net/build/mcp) - Unified spot + prediction market trading API with smart routing and low-failure execution; MCP connects AI tools to DFlow docs, APIs, and code recipes for accurate integrations on Solana.
 - [Deside MCP](https://github.com/DesideApp/deside-mcp) - Wallet-to-wallet messaging primitive for Solana agents via MCP, where agents authenticate with an Ed25519 keypair and send DMs addressed by pubkey.
 - [Phantom Connect SDK](https://docs.phantom.com) - Official Phantom Connect SDK documentation MCP server providing real-time API reference for building wallet-connected apps on Solana using `@phantom/react-sdk`, `@phantom/react-native-sdk`, and `@phantom/browser-sdk`.
