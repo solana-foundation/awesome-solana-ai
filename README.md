@@ -114,6 +114,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs - auto-pays HTTP 402 responses with USDC on Solana and Base, with MCP stdio proxy for AI agents (`npx x402-proxy`).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
 - [solana-infra-mcp](https://github.com/rpc-edge/solana-infra-mcp) - MCP server exposing Solana RPC infrastructure as agent tools: RPC health/latency checks, priority-fee estimation, epoch/slot state, leader schedule, latency comparison, and keyless signed-transaction relay with on-chain landing confirmation.
+- [rpcedge-toolkit](https://github.com/rpc-edge/rpcedge-toolkit) - Open SDK, CLI, and MCP (`rpcedge-mcp`) for Solana trading infra: doctor, health, fees, leaders, Yellowstone sample, and keyless relay submit. `npx rpcedge doctor` · [human page](https://rpcedge.com/toolkit).
 
 ## Learning Resources
 
