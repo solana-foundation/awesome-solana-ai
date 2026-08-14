@@ -115,6 +115,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
 
 ## Learning Resources
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor?src=github-readme-solana-mint-monitor) - Free n8n workflow that watches a Solana mint/program ID and alerts on Telegram when a new transaction appears, no API key needed.
 
 Educational resources combining AI and Solana development.
 
