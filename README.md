@@ -22,6 +22,7 @@ AI coding skills that enhance developer productivity on Solana.
 ### General
 
 - [clawpump-skill](https://www.clawpump.tech/skill.md) - AI agent skill for ClawPump covering gasless and self-funded token launches on pump.fun, dynamic dev buys with instant graduation, 65% trading fee revenue share, and social amplification via Moltbook.
+- [bridgenode-skill](https://github.com/applefanaimail-blip/bridgenode-skill) - AI agent skill for BridgeNode: pay-per-request LLM inference via x402 on Solana USDC. No API keys, no registration, gasless. Covers endpoints, models, pricing, and the full 402 → sign → 200 payment flow.
 - [helius-phantom-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/helius-phantom) - Official Helius + Phantom Connect skill for building frontend Solana apps with React, React Native, and browser SDKs, transaction signing via Helius Sender, token gating, NFT minting, crypto payments, and real-time updates.
 - [magicblock-dev-skill](https://github.com/magicblock-labs/magicblock-dev-skill) - End-to-end MagicBlock development skill for Claude Code. [MagicBlock](https://magicblock.xyz) is a Solana network extension designed to help programs with latency/privacy needs, along with other native tools like VRFs, Cranks, Session Keys and more.
 - [metaplex-skill](https://github.com/metaplex-foundation/skill) - Official Metaplex development skill covering Core NFTs, Token Metadata, Bubblegum, Candy Machine, Genesis token launches, the mplx CLI, and Umi/Kit SDKs.
