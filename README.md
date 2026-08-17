@@ -51,6 +51,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [raydium-skill](https://github.com/sendaifun/skills/tree/main/skills/raydium) - AI coding skill for Raydium Protocol covering CLMM, CPMM, AMM pools, LaunchLab token launches, farming, and Trade API on Solana.
 - [sanctum-skill](https://github.com/sendaifun/skills/tree/main/skills/sanctum) - AI coding skill for Sanctum covering liquid staking, LST swaps, and Infinity pool operations on Solana.
 - [pnp-markets-skill](https://github.com/pnp-protocol/solana-skill) - AI coding skill for PNP Protocol covering permissionless prediction markets on Solana with V2 AMM, P2P betting, custom oracle settlement, and social media-linked markets.
+- [sodax-skills](https://github.com/icon-project/sodax-sdks/tree/main/packages/skills) - AI-agent skills for SODAX, a cross-network execution and liquidity layer letting Solana dapps offer cross-chain swaps, money-market lending, and bridging without becoming cross-chain infra themselves. Ships a `sodax-build` ideation front-door plus mode-gated per-SDK-package skills (swap, money-market, bridge, staking, dex, wallet-sdk) with integration and v1→v2 migration modes. Install via `npx skills@latest add icon-project/sodax-sdks/packages/skills`.
 - [Sentients](https://github.com/koshmade/sentients.wtf) - AI agents minting unique inscriptions on Solana. First AI Agent-Native Protocol with autonomous wallets and deterministic art generated from blockchain entropy.
 
 ### Infrastructure
