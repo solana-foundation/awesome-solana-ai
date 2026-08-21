@@ -70,7 +70,6 @@ AI coding skills that enhance developer productivity on Solana.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
 - [orquestra](https://github.com/berkayoztunc/orquestra) - Open-source platform that instantly converts Solana Anchor and Codama IDLs into hosted REST APIs, AI-ready documentation, and public MCP server (`https://api.orquestra.dev/mcp`) for AI agents and developers.
-
 ## AI Agents
 
 AI agents and autonomous systems built for Solana.
@@ -93,6 +92,7 @@ AI agents and autonomous systems built for Solana.
 
 AI-enhanced development tools for the Solana ecosystem.
 
+- [x402 Digital Vending Machine Schema Gate](https://github.com/woodhouseog/x402-digital-vending-machine) - Solana x402 v2 acceptance gate for agent-generated JSON, returning signed ACCEPT/REJECT receipts against caller-supplied criteria for 0.010 USDC per completed evaluation. [Live service](https://www.x402digitalvendingmachine.store).
 - [Solana Developer MCP](https://mcp.solana.com/) - Maintained by Solana. Solana MCP (Model Context Protocol) is a specialized AI assistant that integrates directly into AI-supported IDEs like Cursor and Windsurf (works with Claude CLI as well). Automatically queries the MCP server to provide accurate, up-to-date information from Solana and Anchor Framework documentation.
 - [DFlow MCP Server](https://pond.dflow.net/build/mcp) - Unified spot + prediction market trading API with smart routing and low-failure execution; MCP connects AI tools to DFlow docs, APIs, and code recipes for accurate integrations on Solana.
 - [Deside MCP](https://github.com/DesideApp/deside-mcp) - Wallet-to-wallet messaging primitive for Solana agents via MCP, where agents authenticate with an Ed25519 keypair and send DMs addressed by pubkey.
