@@ -130,3 +130,5 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+- [SolSniper](https://github.com/ezequiellich44-cmd/SolSniper) - AI-powered rug detection for Solana (50+ on-chain signals, 94% accuracy, token scoring 0.0-1.0) + auto trading + smart money tracking.
