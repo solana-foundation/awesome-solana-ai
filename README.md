@@ -70,6 +70,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
 - [orquestra](https://github.com/berkayoztunc/orquestra) - Open-source platform that instantly converts Solana Anchor and Codama IDLs into hosted REST APIs, AI-ready documentation, and public MCP server (`https://api.orquestra.dev/mcp`) for AI agents and developers.
+- [txwhy-skill](https://txwhy.vercel.app/skill.md) - AI agent skill for TxWhy: repair a failing Solana transaction before sending (compute limit, blockhash, priority fee, Jupiter and Pump.fun slippage, v1 transactions) with an unsigned rebuilt transaction, a simulation proof, and an offline-verifiable diff.
 
 ## AI Agents
 
@@ -113,6 +114,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs - auto-pays HTTP 402 responses with USDC on Solana and Base, with MCP stdio proxy for AI agents (`npx x402-proxy`).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
+- [TxWhy](https://txwhy.vercel.app) - Failed Solana transaction in, working transaction out: an open-source repair API, MCP server (`https://txwhy.vercel.app/api/mcp`) and npm SDK that diagnose failures across 1,934 published error codes, rebuild the transaction, and let agents verify locally that nothing else changed.
 
 ## Learning Resources
 
