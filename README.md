@@ -86,7 +86,6 @@ AI coding skills that enhance developer productivity on Solana.
 
 AI agents and autonomous systems built for Solana.
 
-
 - [Solana Compass CLI](https://github.com/solanaguide/solana-cli) - Ready-to-use Solana CLI allowing AI agents to use natural language commands to trade tokens, stake, lend, use prediction markets, make x402 payments, and manage wallets + portfolios without writing code.
 - [Chronoeffector AI Arena](https://docs.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
 - [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
