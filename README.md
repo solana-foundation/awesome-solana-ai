@@ -56,7 +56,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [trends-skill](https://github.com/trends-fun/skills/tree/main/skills/trends) - AI coding skill for Trends.fun covering bonding curve token launches, buy/sell quote flows, creator reward claims, wallet setup, and troubleshooting on Solana.
 
 ### Infrastructure
-
+- [jito-restaking-skill](https://github.com/smile-XX/jito-restaking-skill/tree/SKILL) - AI coding skill for Jito Restaking covering NCNs, VRTs, vault operations, stake delegation, and restaking reward flows on Solana.
 - [agentic-gateway](https://github.com/alchemyplatform/skills/tree/main/skills/agentic-gateway) - Official Alchemy skill for accessing Solana and multi-chain blockchain APIs through wallet-based x402 flows, with SIWS support for Solana wallets.
 - [alchemy-api](https://github.com/alchemyplatform/skills/tree/main/skills/alchemy-api) - Official Alchemy skill for Solana RPC, DAS, Yellowstone gRPC, token prices, NFT data, and multi-chain blockchain development using an Alchemy API key.
 - [arcium-skill](https://github.com/arcium-hq/agent-skills/tree/main/skills/arcium) - AI coding skill for Arcium covering computation on encrypted data on Solana — dark pools, sealed-bid auctions, encrypted voting, and confidential DeFi.
