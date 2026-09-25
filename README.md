@@ -70,6 +70,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
 - [orquestra](https://github.com/berkayoztunc/orquestra) - Open-source platform that instantly converts Solana Anchor and Codama IDLs into hosted REST APIs, AI-ready documentation, and public MCP server (`https://api.orquestra.dev/mcp`) for AI agents and developers.
+- [Veto](https://github.com/fexx301/veto) - Pins the exact program deployments a delegated Swig agent wallet may reach and blocks the agent on-chain after any upgrade until its operator approves the new code.
 
 ## AI Agents
 
