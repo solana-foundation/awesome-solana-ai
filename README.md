@@ -122,6 +122,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs - auto-pays HTTP 402 responses with USDC on Solana and Base, with MCP stdio proxy for AI agents (`npx x402-proxy`).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
+- [KR Crypto Intelligence](https://api.printmoneylab.com) - x402-powered Korean crypto market data API for AI agents with USDC payments on Solana, covering Kimchi Premium, Upbit/Bithumb prices, AI-translated Korean sentiment, divergence analysis, and arbitrage scanning.
 
 ## Learning Resources
 
