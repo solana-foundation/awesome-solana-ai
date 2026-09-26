@@ -33,6 +33,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [solana-skills-plugin](https://github.com/tenequm/claude-plugins/tree/main/solana) - Solana skills for Claude Code: program development with Anchor/native Rust (testing and deployment included), security auditing with vulnerability detection and audit report generation, and ZK compression for rent-free tokens/PDAs via Light Protocol.
 
 ### DeFi
+- [PnL Labs](https://pnllabs.com) - Trust & risk verdicts for AI trading agents on Solana via x402 (USDC, no keys): real realized-PnL wallet trust (not peak scores), wallet funding forensics, token safety, and trade execution cost. Machine-first JSON + MCP server. ([API](https://api.pnllabs.com)) ([MCP](https://github.com/PnLlabs/pnllabs-mcp))
 
 - [clawpump-arbitrage-skill](https://clawpump.tech/arbitrage.md) - AI agent skill for multi-DEX arbitrage on Solana covering 11 DEX quote aggregation, roundtrip and bridge strategies, and ready-to-sign transaction bundle generation.
 - [dflow-phantom-connect-skill](https://github.com/DFlowProtocol/dflow_phantom-connect-skill) - Official DFlow + Phantom Connect skill for building full-stack, wallet-connected Solana apps with Phantom Connect SDKs, plus DFlow swaps, prediction market trading, and Proof KYC verification.
