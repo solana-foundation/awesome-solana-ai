@@ -31,6 +31,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill) - End-to-end Solana development skill for Claude Code. Covers wallet connections, Anchor/Pinocchio programs, client generation, testing with LiteSVM/Mollusk, and security best practices.
 - [solana-game-skill](https://github.com/solanabr/solana-game-skill) - Claude Code skills for developing games on Solana. Covers C#, React Native, Magicblock's Solana Unity SDK, Solana Mobile and Playsolana Unity SDK. Extends [solana-dev-skill](https://github.com/solana-foundation/solana-dev-skill).
 - [solana-skills-plugin](https://github.com/tenequm/claude-plugins/tree/main/solana) - Solana skills for Claude Code: program development with Anchor/native Rust (testing and deployment included), security auditing with vulnerability detection and audit report generation, and ZK compression for rent-free tokens/PDAs via Light Protocol.
+- [superteam-copilot](https://github.com/blinks-labs/superteam-copilot) - AI agent skill for navigating Colosseum hackathons and Superteam Earn, covering track requirements, deadlines and eligibility, the Earn listings API for bounties and projects, and the 23 Superteam country chapters.
 
 ### DeFi
 
@@ -105,6 +106,7 @@ AI agents and autonomous systems built for Solana.
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
 - [TBD](https://www.tbd.vote) - AI agent [CLI](https://github.com/ego-protocol/tbd-vote-cli) and [AGENTS.md](https://www.tbd.vote/agents/AGENTS.md) spec for a Solana-based prediction market on human opinions, letting agents authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
+- [Aurora AI Desk](https://aurora.blinkslabs.xyz) - In-app AI agent for non-custodial Solana portfolio management by Blinks Labs: describe an allocation mandate in plain language, backtest it, then let an autonomous keeper run DCA and rebalances through Jupiter, with a liquidation guard watching JupLend and Kamino positions.
 
 ## Developer Tools
 
