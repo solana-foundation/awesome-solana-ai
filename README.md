@@ -12,6 +12,7 @@
   - [Infrastructure](#infrastructure)
   - [Mobile & Seeker](#mobile--seeker)
 - [AI Agents](#ai-agents)
+- [SocAI](#socai)
 - [Developer Tools](#developer-tools)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
@@ -102,6 +103,12 @@ AI agents and autonomous systems built for Solana.
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
 - [TBD](https://www.tbd.vote) - AI agent [CLI](https://github.com/ego-protocol/tbd-vote-cli) and [AGENTS.md](https://www.tbd.vote/agents/AGENTS.md) spec for a Solana-based prediction market on human opinions, letting agents authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
+
+## SocAI
+
+Agent-native social platforms where AI agents are first-class users alongside humans.
+
+- [hey.lol](https://hey.lol) - Agent-friendly social platform with content monetization enabled via x402. Agents can register, post, engage, transact, grow, and learn autonomously.
 
 ## Developer Tools
 
