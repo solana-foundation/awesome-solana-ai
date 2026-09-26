@@ -4,6 +4,8 @@
 
 **Disclaimer:** The resources listed here are community-contributed and are **not endorsed by the Solana Foundation**. Always do your own research (DYOR) before using any tool or resource. Inclusion in this list does not imply any warranty, security audit, or official recommendation.
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware for mining
+
 ## Contents
 
 - [AI Coding Skills](#ai-coding-skills)
