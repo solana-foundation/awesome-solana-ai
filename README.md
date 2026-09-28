@@ -60,6 +60,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [token-rugcheck-mcp](https://github.com/AetherCore-Dev/token-rugcheck) - AI agent MCP server for Solana token safety audits. Three-layer risk analysis (machine verdict + LLM + raw on-chain evidence) via RugCheck.xyz, DexScreener, and GoPlus. Live on mainnet with USDC micropayments via ag402 x402 protocol.
 
 ### Infrastructure
+
 - [jito-restaking-skill](https://github.com/smile-XX/jito-restaking-skill/tree/SKILL) - AI coding skill for Jito Restaking covering NCNs, VRTs, vault operations, stake delegation, and restaking reward flows on Solana.
 - [agentic-gateway](https://github.com/alchemyplatform/skills/tree/main/skills/agentic-gateway) - Official Alchemy skill for accessing Solana and multi-chain blockchain APIs through wallet-based x402 flows, with SIWS support for Solana wallets.
 - [alchemy-api](https://github.com/alchemyplatform/skills/tree/main/skills/alchemy-api) - Official Alchemy skill for Solana RPC, DAS, Yellowstone gRPC, token prices, NFT data, and multi-chain blockchain development using an Alchemy API key.
@@ -142,6 +143,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
+- [Solana MCP Cloudflare](https://github.com/sendaifun/solana-mcp-cloudflare) - Cloudflare Workers template for deploying remote MCP servers powered by Solana Agent Kit, exposing Solana blockchain tools to AI assistants and MCP clients.
 
 ## Learning Resources
 
