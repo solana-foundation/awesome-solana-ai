@@ -142,6 +142,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
+- [PumpPill MCP](https://github.com/JackedBased/pumppill-mcp) - Hosted, read-only MCP server (`https://api.pumppill.org/mcp`, no key for public tools) that gives agents stored Solana token reads: holders, bundled-launch detection, deployer holdings and mint/freeze authority, plus early-buyer wallet records with the base rate beside every rate.
 
 ## Learning Resources
 
