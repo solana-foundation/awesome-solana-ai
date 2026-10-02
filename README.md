@@ -38,6 +38,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [dflow-phantom-connect-skill](https://github.com/DFlowProtocol/dflow_phantom-connect-skill) - Official DFlow + Phantom Connect skill for building full-stack, wallet-connected Solana apps with Phantom Connect SDKs, plus DFlow swaps, prediction market trading, and Proof KYC verification.
 - [dflow-skill](https://github.com/sendaifun/skills/tree/main/skills/dflow) - AI coding skill for DFlow trading protocol covering spot trading, prediction markets, Swap API, and WebSocket streaming on Solana.
 - [drift-skill](https://github.com/sendaifun/skills/tree/main/skills/drift) - AI coding skill for Drift Protocol SDK covering perpetual futures, spot trading, and DeFi applications on Solana.
+- [gdex-skill](https://github.com/GemachDAO/gdex-skill) - Open-source agent skills and TypeScript SDK for GDEX, Gemach DAO's multi-chain trading terminal, covering Solana spot swaps routed through pump.fun, PumpSwap, Jupiter, Raydium, Meteora and Orca, limit orders, copy trading, portfolio and token discovery, plus Hyperliquid perps; agents trade through GDEX-managed trading wallets after a control-wallet sign-in.
 - [helius-dflow-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/helius-dflow) - Official Helius + DFlow skill for building Solana trading apps combining DFlow spot swaps, prediction markets, and real-time market streaming with Helius Sender, priority fees, LaserStream, and wallet intelligence.
 - [jupiter-skill](https://github.com/jup-ag/agent-skills/tree/main/skills/integrating-jupiter) - AI coding skill for Jupiter covering Ultra swaps, limit orders, DCA, perpetuals, lending, and token APIs on Solana.
 - [kamino-skill](https://github.com/sendaifun/skills/tree/main/skills/kamino) - AI coding skill for Kamino Finance covering lending, borrowing, liquidity management, leverage trading, and oracle aggregation on Solana.
@@ -142,6 +143,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
+- [gdex-mcp-server](https://github.com/GemachDAO/gdex-skill/tree/main/mcp-server) - MCP server (`npx -y @gemachdao/gdex-mcp-server`) giving AI agents 117 GDEX tools for Solana spot swaps, limit orders, copy trading, portfolio reads and Hyperliquid perps, executed through GDEX-managed trading wallets after a control-wallet sign-in; listed in the official MCP Registry as `io.github.GemachDAO/gdex-mcp-server`.
 
 ## Learning Resources
 
