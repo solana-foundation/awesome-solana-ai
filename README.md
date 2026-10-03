@@ -79,6 +79,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
 - [orquestra](https://github.com/berkayoztunc/orquestra) - Open-source platform that instantly converts Solana Anchor and Codama IDLs into hosted REST APIs, AI-ready documentation, and public MCP server (`https://api.orquestra.dev/mcp`) for AI agents and developers.
+- [txwhy-skill](https://txwhy.vercel.app/skill.md) - AI agent skill for TxWhy: repair a failing Solana transaction before sending (compute limit, blockhash, priority fee, Jupiter and Pump.fun slippage, v1 transactions) with an unsigned rebuilt transaction, a simulation proof, and an offline-verifiable diff.
 
 ### Mobile & Seeker
 
@@ -142,6 +143,8 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
+
+- [TxWhy](https://txwhy.vercel.app) - Failed Solana transaction in, working transaction out: an open-source repair API, MCP server (`https://txwhy.vercel.app/api/mcp`) and npm SDK that diagnose failures across 1,934 published error codes, rebuild the transaction, and let agents verify locally that nothing else changed.
 
 ## Learning Resources
 
