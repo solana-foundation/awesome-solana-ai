@@ -142,6 +142,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
+- [APEX exit check MCP](https://apexfaucet.xyz/for-agents/) - Remote MCP server (`https://apexfaucet.xyz/mcp`) whose `exit_check` tool tells an agent, before it buys a Solana token, the largest position it could sell back under 5% slippage, with quote-side depth and a slippage ladder; paid per call over x402.
 
 ## Learning Resources
 
