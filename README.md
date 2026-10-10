@@ -105,6 +105,7 @@ AI agents and autonomous systems built for Solana.
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
 - [TBD](https://www.tbd.vote) - AI agent [CLI](https://github.com/ego-protocol/tbd-vote-cli) and [AGENTS.md](https://www.tbd.vote/agents/AGENTS.md) spec for a Solana-based prediction market on human opinions, letting agents authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
+- [three.ws](https://github.com/nirholas/three.ws) - Open-source platform for 3D AI agents with a Solana wallet per agent, an MCP server, and per-call x402 payments settled on Solana.
 
 ## Developer Tools
 
