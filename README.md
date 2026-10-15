@@ -105,6 +105,8 @@ AI agents and autonomous systems built for Solana.
 - [Blueprint Agentic Staking (Solentic)](https://github.com/mbrassey/solentic) - Native Solana staking infrastructure for AI agents with 18 MCP tools, 21 REST endpoints, and 13 A2A skills. Zero custody design — agents receive unsigned base64 transactions and sign client-side. Supports stake, unstake, withdraw, simulate, and verify operations with ~6% APY via Blueprint validator.
 - [MoonPay CLI](https://moonpay.com/agents) - AI agent CLI for token swaps, bridging, DCA, wallet management, fiat on/off-ramp, and prediction markets on Solana. Includes Claude Code skills for autonomous trading workflows.
 - [TBD](https://www.tbd.vote) - AI agent [CLI](https://github.com/ego-protocol/tbd-vote-cli) and [AGENTS.md](https://www.tbd.vote/agents/AGENTS.md) spec for a Solana-based prediction market on human opinions, letting agents authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
+- [Shinjuku Shielded MCP](https://github.com/ShinjukuStaition/shinjuku-mcp) - Self-custody MCP wallet that lets AI agents pay x402 endpoints from a shielded USDC balance on Solana, so the chain does not show who paid, under spend caps that only the user sets.
+- [Shinjuku Shielded plugin for Solana Agent Kit](https://github.com/ShinjukuStaition/shinjuku-sak-plugin) - Solana Agent Kit v2 plugin (`solana-agent-kit-plugin-shinjuku`) that lets agents pay x402 APIs from a self-custodied shielded USDC balance on Solana through the local Shinjuku Shielded MCP wallet, so the chain does not show who paid.
 
 ## Developer Tools
 
