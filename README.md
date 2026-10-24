@@ -143,6 +143,8 @@ AI-enhanced development tools for the Solana ecosystem.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
 
+- [GROUNDTRUTH](https://github.com/groundtruth-now/groundtruth-mcp) - Dev history for Solana (pump.fun) memecoins: what a creator wallet launched and how each coin ended, every count with its N, for agents to check before they buy. Over MCP, x402 and a [Solana Agent Kit plugin](https://github.com/groundtruth-now/solana-agent-kit-plugin-groundtruth).
+
 ## Learning Resources
 
 Educational resources combining AI and Solana development.
