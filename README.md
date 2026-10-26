@@ -37,6 +37,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [clawpump-arbitrage-skill](https://clawpump.tech/arbitrage.md) - AI agent skill for multi-DEX arbitrage on Solana covering 11 DEX quote aggregation, roundtrip and bridge strategies, and ready-to-sign transaction bundle generation.
 - [dflow-phantom-connect-skill](https://github.com/DFlowProtocol/dflow_phantom-connect-skill) - Official DFlow + Phantom Connect skill for building full-stack, wallet-connected Solana apps with Phantom Connect SDKs, plus DFlow swaps, prediction market trading, and Proof KYC verification.
 - [dflow-skill](https://github.com/sendaifun/skills/tree/main/skills/dflow) - AI coding skill for DFlow trading protocol covering spot trading, prediction markets, Swap API, and WebSocket streaming on Solana.
+
 - [drift-skill](https://github.com/sendaifun/skills/tree/main/skills/drift) - AI coding skill for Drift Protocol SDK covering perpetual futures, spot trading, and DeFi applications on Solana.
 - [helius-dflow-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/helius-dflow) - Official Helius + DFlow skill for building Solana trading apps combining DFlow spot swaps, prediction markets, and real-time market streaming with Helius Sender, priority fees, LaserStream, and wallet intelligence.
 - [jupiter-skill](https://github.com/jup-ag/agent-skills/tree/main/skills/integrating-jupiter) - AI coding skill for Jupiter covering Ultra swaps, limit orders, DCA, perpetuals, lending, and token APIs on Solana.
