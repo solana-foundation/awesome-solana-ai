@@ -140,6 +140,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs - auto-pays HTTP 402 responses with USDC on Solana and Base, with MCP stdio proxy for AI agents (`npx x402-proxy`).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
+- [RugRadar](https://x402-seller-pmlm.onrender.com/rugradar) - Rug, honeypot and token-safety checks for Solana tokens as an API and MCP server; $0.01 per call via x402, free web checker.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
 
