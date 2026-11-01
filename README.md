@@ -142,6 +142,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
+- [Signal Desk](https://github.com/huntercarver24/signal-desk) - Pay-per-call feed of pump.fun launches decoded from Solana mainnet, each with its creator's 7-day launch count and the Google Trends or Polymarket topic its name matches, plus a trending-topics radar, available as HTTP routes, a remote MCP server and an ElizaOS plugin, paid in USDC on Base over x402, with a free preview 30 minutes late.
 
 ## Learning Resources
 
