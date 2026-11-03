@@ -143,6 +143,8 @@ AI-enhanced development tools for the Solana ecosystem.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
 
+- [Toolbooth](https://toolbooth.io) - Remote MCP server at `https://toolbooth.io/mcp` with read-only, pay-per-call tools for agents: Solana token prices and RugCheck safety checks, wallets and holders, Jupiter swap quotes, DEX pairs, Solana DeFi and LST yields, prediction markets and perps data, paid in USDC on Solana via x402 or with prepaid credit.
+
 ## Learning Resources
 
 Educational resources combining AI and Solana development.
