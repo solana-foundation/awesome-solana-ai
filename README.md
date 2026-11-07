@@ -58,6 +58,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [trends-skill](https://github.com/trends-fun/skills/tree/main/skills/trends) - AI coding skill for Trends.fun covering bonding curve token launches, buy/sell quote flows, creator reward claims, wallet setup, and troubleshooting on Solana.
 
 - [token-rugcheck-mcp](https://github.com/AetherCore-Dev/token-rugcheck) - AI agent MCP server for Solana token safety audits. Three-layer risk analysis (machine verdict + LLM + raw on-chain evidence) via RugCheck.xyz, DexScreener, and GoPlus. Live on mainnet with USDC micropayments via ag402 x402 protocol.
+- [rugshield-402](https://github.com/ak10082247-max/rugshield-402) - Pre-trade DEX honeypot detection, buy/sell tax simulation, and pool liquidity depth verification MCP server and REST API for autonomous AI trading agents on Solana and Base via x402 protocol.
 
 ### Infrastructure
 - [jito-restaking-skill](https://github.com/smile-XX/jito-restaking-skill/tree/SKILL) - AI coding skill for Jito Restaking covering NCNs, VRTs, vault operations, stake delegation, and restaking reward flows on Solana.
