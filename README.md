@@ -110,6 +110,7 @@ AI agents and autonomous systems built for Solana.
 
 AI-enhanced development tools for the Solana ecosystem.
 
+- [AgentFuel402 MCP](https://github.com/ak10082247-max/agentfuel402) - High-frequency consumable B2B buyer intent leads, clean web-to-markdown extraction, e-commerce price/stock tracking, and live SDK specification generator for AI agents with dual-chain x402 micropayments on Solana and Base.
 - [Pyth Pro MCP Server](https://github.com/pyth-network/pyth-crosschain/tree/main/apps/mcp) - MCP server for Pyth real-time and historical market data with price feeds, OHLC candlesticks, and historical snapshots across crypto, equities, FX, and commodities. Includes 9 companion [AI coding skills](https://github.com/pyth-network/pyth-crosschain/tree/main/apps/mcp/skills) for Claude Code.
 - [Solana Developer MCP](https://mcp.solana.com/) - Maintained by Solana. Solana MCP (Model Context Protocol) is a specialized AI assistant that integrates directly into AI-supported IDEs like Cursor and Windsurf (works with Claude CLI as well). Automatically queries the MCP server to provide accurate, up-to-date information from Solana and Anchor Framework documentation.
 - [DFlow MCP Server](https://pond.dflow.net/build/mcp) - Unified spot + prediction market trading API with smart routing and low-failure execution; MCP connects AI tools to DFlow docs, APIs, and code recipes for accurate integrations on Solana.
