@@ -142,6 +142,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
+- [Trading Signals Toolkit](https://signals.incomefather.com/guides/solana-token-safety-check-api) - Remote MCP server (`https://signals.incomefather.com/mcp`) and pay-per-call API that gives Solana agents a safe/caution/avoid token verdict (mint and freeze authority, Token-2022 extensions, top-holder concentration, sniper/bundle wallets, LP lock, live sell-route test) and 24h whale flow, paid in USDC over x402 with no API key. [npm](https://www.npmjs.com/package/trading-signals-mcp)
 
 ## Learning Resources
 
