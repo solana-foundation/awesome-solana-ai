@@ -142,7 +142,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
-- [SolKnife MCP](https://solknife.xyz/agents) - Non-custodial remote MCP server with 57 Solana tools: rug-checks, Jupiter swaps, Meteora DLMM pools, SPL and Token-2022 minting, Squads multisig, and Arweave uploads. Write tools return unsigned transactions for the agent's wallet to sign; read and build tools are paid per call with USDC over x402. Endpoint: https://solknife.xyz/api/mcp
+- [SolKnife MCP](https://solknife.xyz/agents) - Non-custodial remote MCP server with 57 Solana tools for rug-checks, Jupiter swaps, DLMM pools, token minting, Squads multisig, and Arweave uploads, with read and build tools paid per call in USDC over x402.
 
 ## Learning Resources
 
