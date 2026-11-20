@@ -142,7 +142,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
-- [pump-fun-mcp](https://github.com/blixtrade/pump-fun-mcp) - Read-only Solana memecoin and pump.fun research for AI assistants: token info, a 0-100 rug-pull risk check, top holders with pool and insider labels, a trending/new/boosted screener, whale trades and wallet trades. Holders are verified on-chain, and no tool can sign or trade. Zero dependencies, no API key: `npx -y github:blixtrade/pump-fun-mcp`.
+- [pump-fun-mcp](https://github.com/blixtrade/pump-fun-mcp) - Read-only MCP server for Solana memecoin research: token info, 0-100 rug-pull risk checks, on-chain-verified top holders, a trending/new/boosted screener, whale trades and wallet trades. Zero dependencies, no API key, nothing can sign or trade: `npx -y github:blixtrade/pump-fun-mcp`.
 
 ## Learning Resources
 
