@@ -64,6 +64,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [agentic-gateway](https://github.com/alchemyplatform/skills/tree/main/skills/agentic-gateway) - Official Alchemy skill for accessing Solana and multi-chain blockchain APIs through wallet-based x402 flows, with SIWS support for Solana wallets.
 - [alchemy-api](https://github.com/alchemyplatform/skills/tree/main/skills/alchemy-api) - Official Alchemy skill for Solana RPC, DAS, Yellowstone gRPC, token prices, NFT data, and multi-chain blockchain development using an Alchemy API key.
 - [arcium-skill](https://github.com/arcium-hq/agent-skills/tree/main/skills/arcium) - AI coding skill for Arcium covering computation on encrypted data on Solana — dark pools, sealed-bid auctions, encrypted voting, and confidential DeFi.
+- [carbium](https://github.com/carbium-sh/skills) - Official Carbium agent plugin for Claude Code, Cursor and Codex with two skills built from Carbium's own guides: carbium-solana-api (Solana RPC, DAS, WebSocket subscriptions, the Yellowstone gRPC stream, quote and swap, webhooks and the account API) and carbium-dca (the DCA API at dex.carbium.io).
 - [coingecko-skill](https://github.com/sendaifun/skills/tree/main/skills/coingecko) - AI coding skill for CoinGecko Solana API covering token prices, DEX pool data, OHLCV charts, and market analytics.
 - [debridge-skill](https://github.com/sendaifun/skills/tree/main/skills/debridge) - AI coding skill for deBridge Protocol covering cross-chain bridges, message passing, and token transfers between Solana and EVM chains.
 - [dexpaprika-api](https://github.com/coinpaprika/skills/tree/main/dexpaprika-api) - AI coding skill for DexPaprika API covering DEX pool data, token metadata, OHLCV charts, trade history, and SSE streaming across 36 blockchains including Solana.
@@ -142,6 +143,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
+- [Carbium MCP](https://github.com/carbium-sh/carbium-js/tree/main/packages/mcp) - Official stdio MCP server (`npx -y @carbium/mcp`) for Solana RPC and DAS reads, swap quotes and prices, token metadata, DCA and a search of Carbium's docs, read-only by default, where swap and DCA tools return one unsigned transaction for the user's own wallet and three of its eight tools need no key.
 
 ## Learning Resources
 
