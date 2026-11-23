@@ -52,6 +52,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [ranger-finance-skill](https://github.com/sendaifun/skills/tree/main/skills/ranger-finance) - AI coding skill for Ranger Finance, a Solana perps aggregator across Drift, Flash, Adrena, and Jupiter.
 - [raydium-skill](https://github.com/sendaifun/skills/tree/main/skills/raydium) - AI coding skill for Raydium Protocol covering CLMM, CPMM, AMM pools, LaunchLab token launches, farming, and Trade API on Solana.
 - [sanctum-skill](https://github.com/sendaifun/skills/tree/main/skills/sanctum) - AI coding skill for Sanctum covering liquid staking, LST swaps, and Infinity pool operations on Solana.
+- [spacexpad-skill](https://spacexpad.xyz/skill.md) - Agent skill for the SpaceXpad Solana fair-mint launchpad ([repo](https://github.com/spacexpad/spacexpad)) covering launch creation, share minting, refunds, token claims, and dividend claims, with an agent-gate co-signature on mint and refund.
 - [trade-router-skill](https://github.com/re-bruce-wayne/openclaw-skills/tree/main/trade-router) - AI coding skill for Trade Router covering non-custodial Solana swaps with multi-DEX routing across Raydium, PumpSwap, Orca, and Meteora, Jito MEV-protected execution via /protect, and limit/trailing/TWAP/combo orders over WebSocket. The agent signs locally; the API never holds keys.
 - [pnp-markets-skill](https://github.com/pnp-protocol/solana-skill) - AI coding skill for PNP Protocol covering permissionless prediction markets on Solana with V2 AMM, P2P betting, custom oracle settlement, and social media-linked markets.
 - [Sentients](https://github.com/koshmade/sentients.wtf) - AI agents minting unique inscriptions on Solana. First AI Agent-Native Protocol with autonomous wallets and deterministic art generated from blockchain entropy.
@@ -142,6 +143,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
+- [SpaceXpad Agent Wallet](https://spacexpad.xyz/agent-wallet/skill.md) - Keyless Chrome extension wallet (Privy) with a local MCP server ([repo](https://github.com/spacexpad/agent-wallet)) for agent pairing, balance reads, and transaction signing and submission on Solana, Ethereum, Base, and BNB Chain, plus Solana message signing.
 
 ## Learning Resources
 
