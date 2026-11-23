@@ -89,6 +89,7 @@ AI coding skills that enhance developer productivity on Solana.
 
 AI agents and autonomous systems built for Solana.
 
+- [APEX](https://apexfaucet.xyz/solana/) - Pay-per-call tools for Solana agents: an unsigned-transaction check, a token exit check, and page reads, settled in USDC over x402, with a skill file and a remote MCP server.
 - [Solana Compass CLI](https://github.com/solanaguide/solana-cli) - Ready-to-use Solana CLI allowing AI agents to use natural language commands to trade tokens, stake, lend, use prediction markets, make x402 payments, and manage wallets + portfolios without writing code.
 - [Chronoeffector AI Arena](https://docs.chronoeffector.ai) - Chronoeffector AI is a decentralized platform building a fully autonomous AI agent trading arena on Solana, enabling users to deploy AI agents for trading cryptocurrencies, stocks, commodities, and prediction markets.
 - [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
@@ -142,7 +143,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
-- [APEX exit check MCP](https://apexfaucet.xyz/for-agents/) - Remote MCP server (`https://apexfaucet.xyz/mcp`) whose `exit_check` tool tells an agent, before it buys a Solana token, the largest position it could sell back under 5% slippage, with quote-side depth and a slippage ladder; paid per call over x402.
+- [APEX exit check MCP](https://apexfaucet.xyz/mcp) - Remote MCP whose `exit_check` tool tells an agent, before it buys a Solana token, the largest position it could sell back under 5% slippage; paid per call over x402.
 
 ## Learning Resources
 
